@@ -1,0 +1,795 @@
+Name,Ti,V,Mn,Fe,Co,Ni,Zr,Mo,Sn,W,cp,CM_type,CM_morph,MS2_morph,CP_morph,SSA,C,Cation,Anion,P_low,P_high,CD,Cs
+rLGO-(TiS2)0.5,1,0,0,0,0,0,0,0,0,0,1,G-based,2D,irregular nanoparticles,supported,289.44,6.0,K,OH,-0.5,0.5,1.0,97
+rLGO-TiS2,1,0,0,0,0,0,0,0,0,0,1,G-based,2D,irregular nanoparticles,supported,301.8,6.0,K,OH,-0.5,0.5,1.0,102
+rSGO-TiS2,1,0,0,0,0,0,0,0,0,0,1,G-based,2D,irregular nanoparticles,supported,319.2,6.0,K,OH,-0.5,0.5,1.0,113
+VS2,0,1,0,0,0,0,0,0,0,0,0,0,0,nanosheets,0,5.5,6.0,K,OH,0.0,0.5,1.0,152
+VS2,0,1,0,0,0,0,0,0,0,0,0,0,0,nanosheets,0,5.5,6.0,K,OH,0.0,0.5,2.0,145
+VS2,0,1,0,0,0,0,0,0,0,0,0,0,0,nanosheets,0,5.5,6.0,K,OH,0.0,0.5,5.0,136
+VS2,0,1,0,0,0,0,0,0,0,0,0,0,0,nanosheets,0,5.5,6.0,K,OH,0.0,0.5,10.0,120
+VS2,0,1,0,0,0,0,0,0,0,0,0,0,0,nanosheets,0,5.5,6.0,K,OH,0.0,0.5,15.0,90
+VS2,0,1,0,0,0,0,0,0,0,0,0,0,0,irregular nanoparticles,0,15.59,2.0,K,OH,-0.1,0.45,0.2,320.7
+VS2,0,1,0,0,0,0,0,0,0,0,0,0,0,irregular nanoparticles,0,15.59,2.0,K,OH,-0.1,0.45,0.5,289.9
+VS2,0,1,0,0,0,0,0,0,0,0,0,0,0,irregular nanoparticles,0,15.59,2.0,K,OH,-0.1,0.45,1.0,269.7
+VS2,0,1,0,0,0,0,0,0,0,0,0,0,0,irregular nanoparticles,0,15.59,2.0,K,OH,-0.1,0.45,2.0,238.4
+VS2,0,1,0,0,0,0,0,0,0,0,0,0,0,irregular nanoparticles,0,15.59,2.0,K,OH,-0.1,0.45,4.0,198.7
+VS2,0,1,0,0,0,0,0,0,0,0,0,0,0,irregular nanoparticles,0,15.59,2.0,K,OH,-0.1,0.45,10.0,155.8
+VS2-NC,0,1,0,0,0,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,embedded,69.72,2.0,K,OH,-0.1,0.45,0.2,836.7
+VS2-NC,0,1,0,0,0,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,embedded,69.72,2.0,K,OH,-0.1,0.45,0.5,789.8
+VS2-NC,0,1,0,0,0,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,embedded,69.72,2.0,K,OH,-0.1,0.45,1.0,702.2
+VS2-NC,0,1,0,0,0,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,embedded,69.72,2.0,K,OH,-0.1,0.45,2.0,616.5
+VS2-NC,0,1,0,0,0,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,embedded,69.72,2.0,K,OH,-0.1,0.45,4.0,468.9
+VS2-NC,0,1,0,0,0,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,embedded,69.72,2.0,K,OH,-0.1,0.45,10.0,407.3
+VS2/G,0,1,0,0,0,0,0,0,0,0,1,G-based,3D special,irregular nanoparticles,supported,32.3,2.0,K,OH,0.0,0.5,1.0,211
+VS2/G,0,1,0,0,0,0,0,0,0,0,1,G-based,3D special,irregular nanoparticles,supported,32.3,2.0,K,OH,0.0,0.5,2.0,202.56
+VS2/G,0,1,0,0,0,0,0,0,0,0,1,G-based,3D special,irregular nanoparticles,supported,32.3,2.0,K,OH,0.0,0.5,10.0,170.91
+VS2/G,0,1,0,0,0,0,0,0,0,0,1,G-based,3D special,irregular nanoparticles,supported,32.3,2.0,K,OH,0.0,0.5,20.0,135.04
+FeS2,0,0,0,1,0,0,0,0,0,0,0,0,0,irregular nanoparticles,0,4.04,6.0,K,OH,-0.85,-0.3,0.5,163
+FeS2,0,0,0,1,0,0,0,0,0,0,0,0,0,irregular nanoparticles,0,4.04,6.0,K,OH,-0.85,-0.3,1.0,92
+FeS2,0,0,0,1,0,0,0,0,0,0,0,0,0,irregular nanoparticles,0,4.04,6.0,K,OH,-0.85,-0.3,2.0,82
+FeS2,0,0,0,1,0,0,0,0,0,0,0,0,0,irregular nanoparticles,0,4.04,6.0,K,OH,-0.85,-0.3,3.0,78
+FeS2,0,0,0,1,0,0,0,0,0,0,0,0,0,irregular nanoparticles,0,4.04,6.0,K,OH,-0.85,-0.3,5.0,75
+FeS2,0,0,0,1,0,0,0,0,0,0,0,0,0,irregular nanoparticles,0,4.04,6.0,K,OH,-0.85,-0.3,10.0,74
+GA-FeS2,0,0,0,1,0,0,0,0,0,0,1,G-based,2D,flower-like clusters,supported,8.39,6.0,K,OH,-0.85,-0.3,0.5,312
+GA-FeS2,0,0,0,1,0,0,0,0,0,0,1,G-based,2D,flower-like clusters,supported,8.39,6.0,K,OH,-0.85,-0.3,1.0,288
+GA-FeS2,0,0,0,1,0,0,0,0,0,0,1,G-based,2D,flower-like clusters,supported,8.39,6.0,K,OH,-0.85,-0.3,2.0,268
+GA-FeS2,0,0,0,1,0,0,0,0,0,0,1,G-based,2D,flower-like clusters,supported,8.39,6.0,K,OH,-0.85,-0.3,3.0,216
+GA-FeS2,0,0,0,1,0,0,0,0,0,0,1,G-based,2D,flower-like clusters,supported,8.39,6.0,K,OH,-0.85,-0.3,5.0,200
+GA-FeS2,0,0,0,1,0,0,0,0,0,0,1,G-based,2D,flower-like clusters,supported,8.39,6.0,K,OH,-0.85,-0.3,10.0,172
+FeS2@C@MoS2-200,0,0,0,1,0,0,0,1,0,0,1,doped carbon-based,3D special,flower-like clusters,coated,94.7,6.0,K,OH,0.0,0.4,2.0,1325
+FeS2@C@MoS2-200,0,0,0,1,0,0,0,1,0,0,1,doped carbon-based,3D special,flower-like clusters,coated,94.7,6.0,K,OH,0.0,0.4,4.0,1138
+FeS2@C@MoS2-200,0,0,0,1,0,0,0,1,0,0,1,doped carbon-based,3D special,flower-like clusters,coated,94.7,6.0,K,OH,0.0,0.4,6.0,1012
+FeS2@C@MoS2-200,0,0,0,1,0,0,0,1,0,0,1,doped carbon-based,3D special,flower-like clusters,coated,94.7,6.0,K,OH,0.0,0.4,8.0,904
+FeS2@C@MoS2-200,0,0,0,1,0,0,0,1,0,0,1,doped carbon-based,3D special,flower-like clusters,coated,94.7,6.0,K,OH,0.0,0.4,10.0,719
+FeS2/NSG,0,0,0,1,0,0,0,0,0,0,1,G-based,2D,irregular nanoparticles,supported,218.4,6.0,K,OH,-0.6,0.0,1.0,529
+FeS2/NSG,0,0,0,1,0,0,0,0,0,0,1,G-based,2D,irregular nanoparticles,supported,218.4,6.0,K,OH,-0.6,0.0,2.0,481
+FeS2/NSG,0,0,0,1,0,0,0,0,0,0,1,G-based,2D,irregular nanoparticles,supported,218.4,6.0,K,OH,-0.6,0.0,5.0,443
+FeS2/NSG,0,0,0,1,0,0,0,0,0,0,1,G-based,2D,irregular nanoparticles,supported,218.4,6.0,K,OH,-0.6,0.0,10.0,401
+FeS2/NSG,0,0,0,1,0,0,0,0,0,0,1,G-based,2D,irregular nanoparticles,supported,218.4,6.0,K,OH,-0.6,0.0,20.0,349
+NSA-FeS2,0,0,0,1,0,0,0,0,0,0,0,0,0,irregular nanoparticles,0,39.8,1.0,Na,SO3,-1.0,0.0,0.5,763
+NSA-FeS2,0,0,0,1,0,0,0,0,0,0,0,0,0,irregular nanoparticles,0,39.8,1.0,Na,SO3,-1.0,0.0,1.0,720
+NSA-FeS2,0,0,0,1,0,0,0,0,0,0,0,0,0,irregular nanoparticles,0,39.8,1.0,Na,SO3,-1.0,0.0,2.0,590
+NSA-FeS2,0,0,0,1,0,0,0,0,0,0,0,0,0,irregular nanoparticles,0,39.8,1.0,Na,SO3,-1.0,0.0,3.0,429
+NSA-FeS2,0,0,0,1,0,0,0,0,0,0,0,0,0,irregular nanoparticles,0,39.8,1.0,Na,SO3,-1.0,0.0,4.0,240
+NSA-FeS2,0,0,0,1,0,0,0,0,0,0,0,0,0,irregular nanoparticles,0,39.8,1.0,Na,SO3,-1.0,0.0,5.0,105
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,24.0,6.0,K,OH,0.0,1.0,1.0,216
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,24.0,6.0,K,OH,0.0,1.0,2.0,160
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,24.0,6.0,K,OH,0.0,1.0,3.0,140
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,24.0,6.0,K,OH,0.0,1.0,4.0,121
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,24.0,6.0,K,OH,0.0,1.0,5.0,109
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,24.0,6.0,K,OH,0.0,1.0,7.0,86
+MoS2@FeS2,0,0,0,1,0,0,0,1,0,0,0,0,0,hollow morph,0,43.0,6.0,K,OH,0.0,1.0,1.0,386
+MoS2@FeS2,0,0,0,1,0,0,0,1,0,0,0,0,0,hollow morph,0,43.0,6.0,K,OH,0.0,1.0,2.0,274
+MoS2@FeS2,0,0,0,1,0,0,0,1,0,0,0,0,0,hollow morph,0,43.0,6.0,K,OH,0.0,1.0,3.0,230
+MoS2@FeS2,0,0,0,1,0,0,0,1,0,0,0,0,0,hollow morph,0,43.0,6.0,K,OH,0.0,1.0,4.0,179
+MoS2@FeS2,0,0,0,1,0,0,0,1,0,0,0,0,0,hollow morph,0,43.0,6.0,K,OH,0.0,1.0,5.0,163
+MoS2@FeS2,0,0,0,1,0,0,0,1,0,0,0,0,0,hollow morph,0,43.0,6.0,K,OH,0.0,1.0,7.0,154
+FeS2,0,0,0,1,0,0,0,0,0,0,0,0,0,irregular nanoparticles,0,23.8,2.0,K,OH,-1.1,0.0,1.0,471
+FeS2,0,0,0,1,0,0,0,0,0,0,0,0,0,irregular nanoparticles,0,23.8,2.0,K,OH,-1.1,0.0,2.0,398
+FeS2,0,0,0,1,0,0,0,0,0,0,0,0,0,irregular nanoparticles,0,23.8,2.0,K,OH,-1.1,0.0,3.0,369
+FeS2,0,0,0,1,0,0,0,0,0,0,0,0,0,irregular nanoparticles,0,23.8,2.0,K,OH,-1.1,0.0,5.0,356
+FeS2,0,0,0,1,0,0,0,0,0,0,0,0,0,irregular nanoparticles,0,23.8,2.0,K,OH,-1.1,0.0,10.0,335
+FeS2,0,0,0,1,0,0,0,0,0,0,0,0,0,irregular nanoparticles,0,23.8,2.0,K,OH,-1.1,0.0,15.0,321
+FeS2,0,0,0,1,0,0,0,0,0,0,0,0,0,irregular nanoparticles,0,23.8,2.0,K,OH,-1.1,0.0,20.0,307
+30% FeS2/3DPC,0,0,0,1,0,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,embedded,17.37,1.0,K,OH,-1.2,-0.2,2.0,228
+30% FeS2/3DPC,0,0,0,1,0,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,embedded,17.37,1.0,K,OH,-1.2,-0.2,4.0,170
+30% FeS2/3DPC,0,0,0,1,0,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,embedded,17.37,1.0,K,OH,-1.2,-0.2,6.0,140
+30% FeS2/3DPC,0,0,0,1,0,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,embedded,17.37,1.0,K,OH,-1.2,-0.2,8.0,119
+30% FeS2/3DPC,0,0,0,1,0,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,embedded,17.37,1.0,K,OH,-1.2,-0.2,10.0,91
+50% FeS2/3DPC,0,0,0,1,0,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,embedded,27.36,1.0,K,OH,-1.2,-0.2,2.0,303
+50% FeS2/3DPC,0,0,0,1,0,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,embedded,27.36,1.0,K,OH,-1.2,-0.2,4.0,235
+50% FeS2/3DPC,0,0,0,1,0,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,embedded,27.36,1.0,K,OH,-1.2,-0.2,6.0,210
+50% FeS2/3DPC,0,0,0,1,0,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,embedded,27.36,1.0,K,OH,-1.2,-0.2,8.0,192
+50% FeS2/3DPC,0,0,0,1,0,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,embedded,27.36,1.0,K,OH,-1.2,-0.2,10.0,176
+80% FeS2/3DPC,0,0,0,1,0,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,embedded,11.0,1.0,K,OH,-1.2,-0.2,2.0,105
+80% FeS2/3DPC,0,0,0,1,0,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,embedded,11.0,1.0,K,OH,-1.2,-0.2,4.0,84
+80% FeS2/3DPC,0,0,0,1,0,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,embedded,11.0,1.0,K,OH,-1.2,-0.2,6.0,74
+80% FeS2/3DPC,0,0,0,1,0,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,embedded,11.0,1.0,K,OH,-1.2,-0.2,8.0,63
+80% FeS2/3DPC,0,0,0,1,0,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,embedded,11.0,1.0,K,OH,-1.2,-0.2,10.0,60
+FeS2,0,0,0,1,0,0,0,0,0,0,0,0,0,irregular nanoparticles,0,3.6,2.0,K,OH,-1.1,0.0,3.0,459
+FeS2,0,0,0,1,0,0,0,0,0,0,0,0,0,irregular nanoparticles,0,3.6,2.0,K,OH,-1.1,0.0,5.0,372
+FeS2,0,0,0,1,0,0,0,0,0,0,0,0,0,irregular nanoparticles,0,3.6,2.0,K,OH,-1.1,0.0,10.0,309
+FeS2,0,0,0,1,0,0,0,0,0,0,0,0,0,irregular nanoparticles,0,3.6,2.0,K,OH,-1.1,0.0,15.0,299
+FeS2,0,0,0,1,0,0,0,0,0,0,0,0,0,irregular nanoparticles,0,3.6,2.0,K,OH,-1.1,0.0,20.0,289
+FeS2,0,0,0,1,0,0,0,0,0,0,0,0,0,irregular nanoparticles,0,3.6,2.0,K,OH,-1.1,0.0,30.0,269
+FeS2/GNS,0,0,0,1,0,0,0,0,0,0,1,G-based,2D,irregular nanoparticles,supported,135.0,2.0,K,OH,-1.1,0.0,3.0,721
+FeS2/GNS,0,0,0,1,0,0,0,0,0,0,1,G-based,2D,irregular nanoparticles,supported,135.0,2.0,K,OH,-1.1,0.0,5.0,650
+FeS2/GNS,0,0,0,1,0,0,0,0,0,0,1,G-based,2D,irregular nanoparticles,supported,135.0,2.0,K,OH,-1.1,0.0,10.0,621
+FeS2/GNS,0,0,0,1,0,0,0,0,0,0,1,G-based,2D,irregular nanoparticles,supported,135.0,2.0,K,OH,-1.1,0.0,15.0,617
+FeS2/GNS,0,0,0,1,0,0,0,0,0,0,1,G-based,2D,irregular nanoparticles,supported,135.0,2.0,K,OH,-1.1,0.0,20.0,614
+FeS2/GNS,0,0,0,1,0,0,0,0,0,0,1,G-based,2D,irregular nanoparticles,supported,135.0,2.0,K,OH,-1.1,0.0,30.0,589
+PFSG,0,0,0,1,0,0,0,0,0,0,1,G-based,2D,nanoparticles,supported,165.0,2.0,K,OH,-1.1,0.0,3.0,769
+PFSG,0,0,0,1,0,0,0,0,0,0,1,G-based,2D,nanoparticles,supported,165.0,2.0,K,OH,-1.1,0.0,5.0,708
+PFSG,0,0,0,1,0,0,0,0,0,0,1,G-based,2D,nanoparticles,supported,165.0,2.0,K,OH,-1.1,0.0,10.0,637
+PFSG,0,0,0,1,0,0,0,0,0,0,1,G-based,2D,nanoparticles,supported,165.0,2.0,K,OH,-1.1,0.0,15.0,587
+PFSG,0,0,0,1,0,0,0,0,0,0,1,G-based,2D,nanoparticles,supported,165.0,2.0,K,OH,-1.1,0.0,20.0,570
+PFSG,0,0,0,1,0,0,0,0,0,0,1,G-based,2D,nanoparticles,supported,165.0,2.0,K,OH,-1.1,0.0,30.0,555
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,hollow morph,0,127.6,2.0,K,OH,-0.1,0.4,1.0,1301
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,hollow morph,0,127.6,2.0,K,OH,-0.1,0.4,2.5,1073
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,hollow morph,0,127.6,2.0,K,OH,-0.1,0.4,5.0,883
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,hollow morph,0,127.6,2.0,K,OH,-0.1,0.4,10.0,650
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,hollow morph,0,127.6,2.0,K,OH,-0.1,0.4,20.0,450
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,hollow morph,0,98.3,2.0,K,OH,-0.1,0.4,1.0,1180
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,hollow morph,0,98.3,2.0,K,OH,-0.1,0.4,2.5,952
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,hollow morph,0,98.3,2.0,K,OH,-0.1,0.4,5.0,733
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,hollow morph,0,98.3,2.0,K,OH,-0.1,0.4,10.0,531
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,hollow morph,0,98.3,2.0,K,OH,-0.1,0.4,20.0,339
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,hollow morph,0,65.1,2.0,K,OH,-0.1,0.4,1.0,1079
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,hollow morph,0,65.1,2.0,K,OH,-0.1,0.4,2.5,883
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,hollow morph,0,65.1,2.0,K,OH,-0.1,0.4,5.0,681
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,hollow morph,0,65.1,2.0,K,OH,-0.1,0.4,10.0,471
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,hollow morph,0,65.1,2.0,K,OH,-0.1,0.4,20.0,271
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,nanoparticles,0,41.5,2.0,K,OH,-0.1,0.4,1.0,899
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,nanoparticles,0,41.5,2.0,K,OH,-0.1,0.4,2.5,733
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,nanoparticles,0,41.5,2.0,K,OH,-0.1,0.4,5.0,583
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,nanoparticles,0,41.5,2.0,K,OH,-0.1,0.4,10.0,388
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,nanoparticles,0,41.5,2.0,K,OH,-0.1,0.4,20.0,221
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,bulk,0,3.2,2.0,K,OH,-0.1,0.4,1.0,624
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,bulk,0,3.2,2.0,K,OH,-0.1,0.4,2.5,495
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,bulk,0,3.2,2.0,K,OH,-0.1,0.4,5.0,345
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,bulk,0,3.2,2.0,K,OH,-0.1,0.4,10.0,212
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,bulk,0,3.2,2.0,K,OH,-0.1,0.4,20.0,93
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,nanoparticles,0,17.46,2.0,K,OH,-0.1,0.5,1.0,236.5
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,nanoparticles,0,17.46,2.0,K,OH,-0.1,0.5,2.0,225.3
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,nanoparticles,0,17.46,2.0,K,OH,-0.1,0.5,5.0,203.3
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,nanoparticles,0,17.46,2.0,K,OH,-0.1,0.5,10.0,175
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,nanoparticles,0,17.46,2.0,K,OH,-0.1,0.5,15.0,152.5
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,irregular nanoparticles,0,21.0,2.0,K,OH,0.0,0.4,2.0,624.1
+CoS2/RGO-2,0,0,0,0,1,0,0,0,0,0,1,G-based,2D,irregular nanoparticles,coated,93.0,2.0,K,OH,0.0,0.4,2.0,929
+CoS2/RGO-2,0,0,0,0,1,0,0,0,0,0,1,G-based,2D,irregular nanoparticles,coated,93.0,2.0,K,OH,0.0,0.4,4.0,855
+CoS2/RGO-2,0,0,0,0,1,0,0,0,0,0,1,G-based,2D,irregular nanoparticles,coated,93.0,2.0,K,OH,0.0,0.4,8.0,798
+CoS2/RGO-2,0,0,0,0,1,0,0,0,0,0,1,G-based,2D,irregular nanoparticles,coated,93.0,2.0,K,OH,0.0,0.4,14.0,713
+CoS2/RGO-2,0,0,0,0,1,0,0,0,0,0,1,G-based,2D,irregular nanoparticles,coated,93.0,2.0,K,OH,0.0,0.4,20.0,677
+CoS2@ETA-2,0,0,0,0,1,0,0,0,0,0,0,0,0,flower-like clusters,0,66.416,2.0,K,OH,-0.1,0.5,1.0,718.7
+CoS2@ETA-2,0,0,0,0,1,0,0,0,0,0,0,0,0,flower-like clusters,0,66.416,2.0,K,OH,-0.1,0.5,2.0,696.7
+CoS2@ETA-2,0,0,0,0,1,0,0,0,0,0,0,0,0,flower-like clusters,0,66.416,2.0,K,OH,-0.1,0.5,5.0,620.8
+CoS2@ETA-2,0,0,0,0,1,0,0,0,0,0,0,0,0,flower-like clusters,0,66.416,2.0,K,OH,-0.1,0.5,10.0,536.7
+CoS2@ETA-2,0,0,0,0,1,0,0,0,0,0,0,0,0,flower-like clusters,0,66.416,2.0,K,OH,-0.1,0.5,20.0,476.7
+CoS2@ETA-4,0,0,0,0,1,0,0,0,0,0,0,0,0,flower-like clusters,0,46.204,2.0,K,OH,-0.1,0.5,1.0,554
+CoS2@ETA-4,0,0,0,0,1,0,0,0,0,0,0,0,0,flower-like clusters,0,46.204,2.0,K,OH,-0.1,0.5,2.0,540
+CoS2@ETA-4,0,0,0,0,1,0,0,0,0,0,0,0,0,flower-like clusters,0,46.204,2.0,K,OH,-0.1,0.5,5.0,497
+CoS2@ETA-4,0,0,0,0,1,0,0,0,0,0,0,0,0,flower-like clusters,0,46.204,2.0,K,OH,-0.1,0.5,10.0,469
+CoS2@ETA-4,0,0,0,0,1,0,0,0,0,0,0,0,0,flower-like clusters,0,46.204,2.0,K,OH,-0.1,0.5,20.0,417
+CoS2@ETA-1,0,0,0,0,1,0,0,0,0,0,0,0,0,nanoparticles,0,3.31,2.0,K,OH,-0.1,0.5,1.0,180
+CoS2@ETA-1,0,0,0,0,1,0,0,0,0,0,0,0,0,nanoparticles,0,3.31,2.0,K,OH,-0.1,0.5,2.0,167
+CoS2@ETA-1,0,0,0,0,1,0,0,0,0,0,0,0,0,nanoparticles,0,3.31,2.0,K,OH,-0.1,0.5,5.0,143
+CoS2@ETA-1,0,0,0,0,1,0,0,0,0,0,0,0,0,nanoparticles,0,3.31,2.0,K,OH,-0.1,0.5,10.0,115
+CoS2@ETA-1,0,0,0,0,1,0,0,0,0,0,0,0,0,nanoparticles,0,3.31,2.0,K,OH,-0.1,0.5,20.0,78
+CoS2 NCs,0,0,0,0,1,0,0,0,0,0,0,0,0,irregular nanoparticles,0,29.3,2.0,K,OH,-0.2,0.45,0.5,654
+CoS2 NCs,0,0,0,0,1,0,0,0,0,0,0,0,0,irregular nanoparticles,0,29.3,2.0,K,OH,-0.2,0.45,1.0,595
+CoS2 NCs,0,0,0,0,1,0,0,0,0,0,0,0,0,irregular nanoparticles,0,29.3,2.0,K,OH,-0.2,0.45,5.0,499
+Co-S-200,0,0,0,0,1,0,0,0,0,0,0,0,0,irregular nanoparticles,0,36.31,6.0,K,OH,0.0,0.4,0.5,996.16
+Co-S-200,0,0,0,0,1,0,0,0,0,0,0,0,0,irregular nanoparticles,0,36.31,6.0,K,OH,0.0,0.4,1.0,986.95
+Co-S-200,0,0,0,0,1,0,0,0,0,0,0,0,0,irregular nanoparticles,0,36.31,6.0,K,OH,0.0,0.4,2.0,979.9
+Co-S-200,0,0,0,0,1,0,0,0,0,0,0,0,0,irregular nanoparticles,0,36.31,6.0,K,OH,0.0,0.4,3.0,972.75
+Co-S-200,0,0,0,0,1,0,0,0,0,0,0,0,0,irregular nanoparticles,0,36.31,6.0,K,OH,0.0,0.4,4.0,966
+Co-S-200,0,0,0,0,1,0,0,0,0,0,0,0,0,irregular nanoparticles,0,36.31,6.0,K,OH,0.0,0.4,5.0,957.5
+Co-S-280,0,0,0,0,1,0,0,0,0,0,0,0,0,irregular nanoparticles,0,13.09,6.0,K,OH,0.0,0.4,0.5,354.13
+Co-S-280,0,0,0,0,1,0,0,0,0,0,0,0,0,irregular nanoparticles,0,13.09,6.0,K,OH,0.0,0.4,1.0,342.5
+Co-S-280,0,0,0,0,1,0,0,0,0,0,0,0,0,irregular nanoparticles,0,13.09,6.0,K,OH,0.0,0.4,2.0,321.7
+Co-S-280,0,0,0,0,1,0,0,0,0,0,0,0,0,irregular nanoparticles,0,13.09,6.0,K,OH,0.0,0.4,3.0,307.7
+Co-S-280,0,0,0,0,1,0,0,0,0,0,0,0,0,irregular nanoparticles,0,13.09,6.0,K,OH,0.0,0.4,4.0,294.5
+Co-S-280,0,0,0,0,1,0,0,0,0,0,0,0,0,irregular nanoparticles,0,13.09,6.0,K,OH,0.0,0.4,5.0,289.5
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,hollow morph,0,113.9,2.0,K,OH,-0.1,0.4,1.0,936
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,hollow morph,0,113.9,2.0,K,OH,-0.1,0.4,2.0,883.2
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,hollow morph,0,113.9,2.0,K,OH,-0.1,0.4,5.0,810
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,hollow morph,0,113.9,2.0,K,OH,-0.1,0.4,10.0,746
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,hollow morph,0,113.9,2.0,K,OH,-0.1,0.4,20.0,686.4
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,nanoparticles,0,67.08,3.0,K,OH,0.0,0.45,1.0,426.6
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,nanoparticles,0,67.08,3.0,K,OH,0.0,0.45,10.0,404.8
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,nanoparticles,0,67.08,3.0,K,OH,0.0,0.45,20.0,382.7
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,nanoparticles,0,201.38,3.0,K,OH,0.0,0.45,1.0,951.6
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,nanoparticles,0,201.38,3.0,K,OH,0.0,0.45,2.0,809
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,nanoparticles,0,201.38,3.0,K,OH,0.0,0.45,3.0,743
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,nanoparticles,0,201.38,3.0,K,OH,0.0,0.45,5.0,669
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,nanoparticles,0,201.38,3.0,K,OH,0.0,0.45,10.0,553
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,nanoparticles,0,201.38,3.0,K,OH,0.0,0.45,20.0,442
+CoS2@NiS2,0,0,0,0,1,1,0,0,0,0,0,0,0,nanoparticles,0,78.44,3.0,K,OH,0.0,0.45,1.0,1731.2
+CoS2@NiS2,0,0,0,0,1,1,0,0,0,0,0,0,0,nanoparticles,0,78.44,3.0,K,OH,0.0,0.45,2.0,1679
+CoS2@NiS2,0,0,0,0,1,1,0,0,0,0,0,0,0,nanoparticles,0,78.44,3.0,K,OH,0.0,0.45,3.0,1640
+CoS2@NiS2,0,0,0,0,1,1,0,0,0,0,0,0,0,nanoparticles,0,78.44,3.0,K,OH,0.0,0.45,5.0,1571
+CoS2@NiS2,0,0,0,0,1,1,0,0,0,0,0,0,0,nanoparticles,0,78.44,3.0,K,OH,0.0,0.45,10.0,1446
+CoS2@NiS2,0,0,0,0,1,1,0,0,0,0,0,0,0,nanoparticles,0,78.44,3.0,K,OH,0.0,0.45,20.0,1329.7
+CoS2 HNs,0,0,0,0,1,0,0,0,0,0,0,0,0,hollow morph,0,326.2,6.0,K,OH,0.0,0.36,0.5,703.3
+CoS2 HNs,0,0,0,0,1,0,0,0,0,0,0,0,0,hollow morph,0,326.2,6.0,K,OH,0.0,0.36,10.0,509.96
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,58.2,2.0,K,OH,0.0,0.5,1.0,116.8
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,58.2,2.0,K,OH,0.0,0.5,2.0,102
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,58.2,2.0,K,OH,0.0,0.5,5.0,72
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,58.2,2.0,K,OH,0.0,0.5,10.0,44
+CM-2,0,0,0,0,1,0,0,1,0,0,0,0,0,irregular nanoparticles,0,60.1,2.0,K,OH,0.0,0.5,1.0,1038
+CM-2,0,0,0,0,1,0,0,1,0,0,0,0,0,irregular nanoparticles,0,60.1,2.0,K,OH,0.0,0.5,2.0,980
+CM-2,0,0,0,0,1,0,0,1,0,0,0,0,0,irregular nanoparticles,0,60.1,2.0,K,OH,0.0,0.5,5.0,867
+CM-2,0,0,0,0,1,0,0,1,0,0,0,0,0,irregular nanoparticles,0,60.1,2.0,K,OH,0.0,0.5,10.0,738
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,irregular nanoparticles,0,51.2,2.0,K,OH,0.0,0.5,1.0,464.4
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,irregular nanoparticles,0,51.2,2.0,K,OH,0.0,0.5,2.0,437
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,irregular nanoparticles,0,51.2,2.0,K,OH,0.0,0.5,5.0,367
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,irregular nanoparticles,0,51.2,2.0,K,OH,0.0,0.5,10.0,297
+CoS2/NSC-CNT-p,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,interconnection,253.8,6.0,K,OH,0.0,0.5,1.0,653.8
+CoS2/NSC-CNT-p,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,interconnection,253.8,6.0,K,OH,0.0,0.5,2.0,616.4
+CoS2/NSC-CNT-p,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,interconnection,253.8,6.0,K,OH,0.0,0.5,5.0,571
+CoS2/NSC-CNT-p,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,interconnection,253.8,6.0,K,OH,0.0,0.5,7.0,560.2
+CoS2/NSC-CNT-p,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,interconnection,253.8,6.0,K,OH,0.0,0.5,10.0,544.2
+CoS2@NiS2-C,0,0,0,0,1,1,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,supported,101.67,6.0,K,OH,0.0,0.45,1.0,3051.11111111111
+CoS2@NiS2-C,0,0,0,0,1,1,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,supported,101.67,6.0,K,OH,0.0,0.45,2.0,2862.22222222222
+CoS2@NiS2-C,0,0,0,0,1,1,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,supported,101.67,6.0,K,OH,0.0,0.45,3.0,2811.11111111111
+CoS2@NiS2-C,0,0,0,0,1,1,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,supported,101.67,6.0,K,OH,0.0,0.45,5.0,2697.77777777778
+CoS2@NiS2-C,0,0,0,0,1,1,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,supported,101.67,6.0,K,OH,0.0,0.45,10.0,2457.77777777778
+CoS2@NiS2-C,0,0,0,0,1,1,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,supported,101.67,6.0,K,OH,0.0,0.45,15.0,2260
+CoS2@NiS2-C,0,0,0,0,1,1,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,supported,101.67,6.0,K,OH,0.0,0.45,20.0,2093.33333333333
+CoS2@C,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,supported,60.27,6.0,K,OH,0.0,0.45,1.0,574
+CoS2@C,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,supported,60.27,6.0,K,OH,0.0,0.45,2.0,444
+CoS2@C,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,supported,60.27,6.0,K,OH,0.0,0.45,3.0,358
+CoS2@C,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,supported,60.27,6.0,K,OH,0.0,0.45,5.0,278
+CoS2@C,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,supported,60.27,6.0,K,OH,0.0,0.45,10.0,188
+CoS2@C,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,supported,60.27,6.0,K,OH,0.0,0.45,15.0,156
+CoS2@C,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,supported,60.27,6.0,K,OH,0.0,0.45,20.0,133
+CoS2/MWCNT,0,0,0,0,1,0,0,0,0,0,1,CNT,3D porous,nanosheets,supported,15.735,2.0,K,OH,0.0,0.5,2.0,535
+CoS2/MWCNT,0,0,0,0,1,0,0,0,0,0,1,CNT,3D porous,nanosheets,supported,15.735,2.0,K,OH,0.0,0.5,3.0,496
+CoS2/MWCNT,0,0,0,0,1,0,0,0,0,0,1,CNT,3D porous,nanosheets,supported,15.735,2.0,K,OH,0.0,0.5,5.0,462
+CoS2/MWCNT,0,0,0,0,1,0,0,0,0,0,1,CNT,3D porous,nanosheets,supported,15.735,2.0,K,OH,0.0,0.5,10.0,324
+CNT@CoS2-10,0,0,0,0,1,0,0,0,0,0,1,CNT,1D tubes,nanoparticles,interconnection,109.3,6.0,K,OH,0.0,0.5,1.0,589
+CNT@CoS2-10,0,0,0,0,1,0,0,0,0,0,1,CNT,1D tubes,nanoparticles,interconnection,109.3,6.0,K,OH,0.0,0.5,3.0,552
+CNT@CoS2-10,0,0,0,0,1,0,0,0,0,0,1,CNT,1D tubes,nanoparticles,interconnection,109.3,6.0,K,OH,0.0,0.5,5.0,530
+CNT@CoS2-10,0,0,0,0,1,0,0,0,0,0,1,CNT,1D tubes,nanoparticles,interconnection,109.3,6.0,K,OH,0.0,0.5,7.0,507
+CNT@CoS2-10,0,0,0,0,1,0,0,0,0,0,1,CNT,1D tubes,nanoparticles,interconnection,109.3,6.0,K,OH,0.0,0.5,10.0,479
+CNT@CoS2-20,0,0,0,0,1,0,0,0,0,0,1,CNT,1D tubes,nanoparticles,interconnection,128.4,6.0,K,OH,0.0,0.5,1.0,822
+CNT@CoS2-20,0,0,0,0,1,0,0,0,0,0,1,CNT,1D tubes,nanoparticles,interconnection,128.4,6.0,K,OH,0.0,0.5,3.0,753
+CNT@CoS2-20,0,0,0,0,1,0,0,0,0,0,1,CNT,1D tubes,nanoparticles,interconnection,128.4,6.0,K,OH,0.0,0.5,5.0,713
+CNT@CoS2-20,0,0,0,0,1,0,0,0,0,0,1,CNT,1D tubes,nanoparticles,interconnection,128.4,6.0,K,OH,0.0,0.5,7.0,682
+CNT@CoS2-20,0,0,0,0,1,0,0,0,0,0,1,CNT,1D tubes,nanoparticles,interconnection,128.4,6.0,K,OH,0.0,0.5,10.0,630
+CNT@CoS2-30,0,0,0,0,1,0,0,0,0,0,1,CNT,1D tubes,nanoparticles,interconnection,100.2,6.0,K,OH,0.0,0.5,1.0,448
+CNT@CoS2-30,0,0,0,0,1,0,0,0,0,0,1,CNT,1D tubes,nanoparticles,interconnection,100.2,6.0,K,OH,0.0,0.5,3.0,427
+CNT@CoS2-30,0,0,0,0,1,0,0,0,0,0,1,CNT,1D tubes,nanoparticles,interconnection,100.2,6.0,K,OH,0.0,0.5,5.0,406
+CNT@CoS2-30,0,0,0,0,1,0,0,0,0,0,1,CNT,1D tubes,nanoparticles,interconnection,100.2,6.0,K,OH,0.0,0.5,7.0,385
+CNT@CoS2-30,0,0,0,0,1,0,0,0,0,0,1,CNT,1D tubes,nanoparticles,interconnection,100.2,6.0,K,OH,0.0,0.5,10.0,348
+CoS2@NDMC,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D special,nanoparticles,supported,98.07,2.0,K,OH,0.0,0.45,1.0,1246
+CoS2@NDMC,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D special,nanoparticles,supported,98.07,2.0,K,OH,0.0,0.45,2.0,1178
+CoS2@NDMC,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D special,nanoparticles,supported,98.07,2.0,K,OH,0.0,0.45,4.0,1088
+CoS2@NDMC,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D special,nanoparticles,supported,98.07,2.0,K,OH,0.0,0.45,8.0,957
+CoS2@NDMC,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D special,nanoparticles,supported,98.07,2.0,K,OH,0.0,0.45,16.0,787
+FeS2@KC-800,0,0,0,1,0,0,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,supported,196.806,6.0,K,OH,0.0,0.5,1.0,1492.55
+FeS2@KC-800,0,0,0,1,0,0,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,supported,196.806,6.0,K,OH,0.0,0.5,2.0,1338.94
+FeS2@KC-800,0,0,0,1,0,0,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,supported,196.806,6.0,K,OH,0.0,0.5,5.0,1163.27
+FeS2@KC-800,0,0,0,1,0,0,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,supported,196.806,6.0,K,OH,0.0,0.5,10.0,980.4.
+FeS2@KC-800,0,0,0,1,0,0,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,supported,196.806,6.0,K,OH,0.0,0.5,15.0,874.64
+CoS2@KC-800,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,supported,361.51,6.0,K,OH,0.0,0.5,0.5,2306.38
+CoS2@KC-800,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,supported,361.51,6.0,K,OH,0.0,0.5,1.0,2009.67
+CoS2@KC-800,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,supported,361.51,6.0,K,OH,0.0,0.5,2.0,1744.94
+CoS2@KC-800,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,supported,361.51,6.0,K,OH,0.0,0.5,5.0,1443.15
+CoS2@KC-800,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,supported,361.51,6.0,K,OH,0.0,0.5,10.0,1167.02
+CoS2@KC-800,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,supported,361.51,6.0,K,OH,0.0,0.5,15.0,1037.07
+FeS2/CoS2@KC-700,0,0,0,1,1,0,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,supported,330.94,6.0,K,OH,0.0,0.5,0.5,2902
+FeS2/CoS2@KC-700,0,0,0,1,1,0,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,supported,330.94,6.0,K,OH,0.0,0.5,1.0,2643.07
+FeS2/CoS2@KC-700,0,0,0,1,1,0,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,supported,330.94,6.0,K,OH,0.0,0.5,2.0,2353.52
+FeS2/CoS2@KC-700,0,0,0,1,1,0,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,supported,330.94,6.0,K,OH,0.0,0.5,5.0,2028.74
+FeS2/CoS2@KC-700,0,0,0,1,1,0,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,supported,330.94,6.0,K,OH,0.0,0.5,10.0,1705.13
+FeS2/CoS2@KC-700,0,0,0,1,1,0,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,supported,330.94,6.0,K,OH,0.0,0.5,15.0,1499.38
+FeS2/CoS2@KC-800,0,0,0,1,1,0,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,supported,468.516,6.0,K,OH,0.0,0.5,0.5,3480.47
+FeS2/CoS2@KC-800,0,0,0,1,1,0,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,supported,468.516,6.0,K,OH,0.0,0.5,1.0,3226.58
+FeS2/CoS2@KC-800,0,0,0,1,1,0,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,supported,468.516,6.0,K,OH,0.0,0.5,2.0,2986.59
+FeS2/CoS2@KC-800,0,0,0,1,1,0,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,supported,468.516,6.0,K,OH,0.0,0.5,5.0,2648.07
+FeS2/CoS2@KC-800,0,0,0,1,1,0,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,supported,468.516,6.0,K,OH,0.0,0.5,10.0,2286.55
+FeS2/CoS2@KC-800,0,0,0,1,1,0,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,supported,468.516,6.0,K,OH,0.0,0.5,15.0,2100.38
+FeS2/CoS2@KC-900,0,0,0,1,1,0,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,supported,199.901,6.0,K,OH,0.0,0.5,0.5,2355.98
+FeS2/CoS2@KC-900,0,0,0,1,1,0,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,supported,199.901,6.0,K,OH,0.0,0.5,1.0,2063.15
+FeS2/CoS2@KC-900,0,0,0,1,1,0,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,supported,199.901,6.0,K,OH,0.0,0.5,2.0,1820.25
+FeS2/CoS2@KC-900,0,0,0,1,1,0,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,supported,199.901,6.0,K,OH,0.0,0.5,5.0,1546.03
+FeS2/CoS2@KC-900,0,0,0,1,1,0,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,supported,199.901,6.0,K,OH,0.0,0.5,10.0,1303.63
+FeS2/CoS2@KC-900,0,0,0,1,1,0,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,supported,199.901,6.0,K,OH,0.0,0.5,15.0,1110.79
+NiS2/CoS2/3DGO,0,0,0,0,1,1,0,0,0,0,1,G-based,3D porous,irregular nanoparticles,supported,200.48,3.0,K,OH,0.0,0.43,1.0,2451
+NiS2/CoS2/3DGO,0,0,0,0,1,1,0,0,0,0,1,G-based,3D porous,irregular nanoparticles,supported,200.48,3.0,K,OH,0.0,0.43,2.0,2302
+NiS2/CoS2/3DGO,0,0,0,0,1,1,0,0,0,0,1,G-based,3D porous,irregular nanoparticles,supported,200.48,3.0,K,OH,0.0,0.43,5.0,2024
+NiS2/CoS2/3DGO,0,0,0,0,1,1,0,0,0,0,1,G-based,3D porous,irregular nanoparticles,supported,200.48,3.0,K,OH,0.0,0.43,10.0,1768
+NiS2/CoS2/3DGO,0,0,0,0,1,1,0,0,0,0,1,G-based,3D porous,irregular nanoparticles,supported,200.48,3.0,K,OH,0.0,0.43,20.0,1457
+CoFe-S/rGO-0.7,0,0,0,1,1,0,0,0,0,0,1,G-based,2D,irregular nanoparticles,supported,249.02,1.0,K,OH,0.0,0.5,1.0,4474.1
+CoFe-S/rGO-0.7,0,0,0,1,1,0,0,0,0,0,1,G-based,2D,irregular nanoparticles,supported,249.02,1.0,K,OH,0.0,0.5,2.0,3231.2
+CoFe-S/rGO-0.7,0,0,0,1,1,0,0,0,0,0,1,G-based,2D,irregular nanoparticles,supported,249.02,1.0,K,OH,0.0,0.5,3.0,2933.7
+CoFe-S/rGO-0.7,0,0,0,1,1,0,0,0,0,0,1,G-based,2D,irregular nanoparticles,supported,249.02,1.0,K,OH,0.0,0.5,4.0,2693
+CoFe-S/rGO-0.7,0,0,0,1,1,0,0,0,0,0,1,G-based,2D,irregular nanoparticles,supported,249.02,1.0,K,OH,0.0,0.5,5.0,2407.9
+CoFe-S/rGO-0.7,0,0,0,1,1,0,0,0,0,0,1,G-based,2D,irregular nanoparticles,supported,249.02,1.0,K,OH,0.0,0.5,10.0,2148.8
+CoS2-C@TCL,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,coated,111.3,2.0,K,OH,0.0,0.5,1.0,1008
+CoS2-C@TCL,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,coated,111.3,2.0,K,OH,0.0,0.5,2.0,964
+CoS2-C@TCL,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,coated,111.3,2.0,K,OH,0.0,0.5,5.0,873
+CoS2-C@TCL,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,coated,111.3,2.0,K,OH,0.0,0.5,8.0,788
+CoS2-C@TCL,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,coated,111.3,2.0,K,OH,0.0,0.5,10.0,740
+CQDs/CoS2,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,0D QDs,irregular nanoparticles,supported,427.2,2.0,K,OH,-0.4,0.5,1.0,808
+CQDs/CoS2,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,0D QDs,irregular nanoparticles,supported,427.2,2.0,K,OH,-0.4,0.5,3.0,750
+CQDs/CoS2,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,0D QDs,irregular nanoparticles,supported,427.2,2.0,K,OH,-0.4,0.5,7.0,710
+CQDs/CoS2,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,0D QDs,irregular nanoparticles,supported,427.2,2.0,K,OH,-0.4,0.5,13.0,690
+CQDs/CoS2,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,0D QDs,irregular nanoparticles,supported,427.2,2.0,K,OH,-0.4,0.5,25.0,650
+CQDs/CoS2,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,0D QDs,irregular nanoparticles,supported,427.2,2.0,K,OH,-0.4,0.5,50.0,560
+CoS2/CNF,0,0,0,0,1,0,0,0,0,0,1,CNF,1D fibers,nanoparticles,supported,16.3,3.0,K,OH,0.0,0.45,1.0,518.4
+CoS2/CNF,0,0,0,0,1,0,0,0,0,0,1,CNF,1D fibers,nanoparticles,supported,16.3,3.0,K,OH,0.0,0.45,2.0,397
+CoS2/CNF,0,0,0,0,1,0,0,0,0,0,1,CNF,1D fibers,nanoparticles,supported,16.3,3.0,K,OH,0.0,0.45,3.0,331
+CoS2/CNF,0,0,0,0,1,0,0,0,0,0,1,CNF,1D fibers,nanoparticles,supported,16.3,3.0,K,OH,0.0,0.45,5.0,272
+CoS2/CNF,0,0,0,0,1,0,0,0,0,0,1,CNF,1D fibers,nanoparticles,supported,16.3,3.0,K,OH,0.0,0.45,10.0,215
+CoS2/PCNF-0.25,0,0,0,0,1,0,0,0,0,0,1,CNF,1D fibers,nanoparticles,supported,22.4,3.0,K,OH,0.0,0.45,1.0,688.8
+CoS2/PCNF-0.25,0,0,0,0,1,0,0,0,0,0,1,CNF,1D fibers,nanoparticles,supported,22.4,3.0,K,OH,0.0,0.45,2.0,538
+CoS2/PCNF-0.25,0,0,0,0,1,0,0,0,0,0,1,CNF,1D fibers,nanoparticles,supported,22.4,3.0,K,OH,0.0,0.45,3.0,456
+CoS2/PCNF-0.25,0,0,0,0,1,0,0,0,0,0,1,CNF,1D fibers,nanoparticles,supported,22.4,3.0,K,OH,0.0,0.45,5.0,384
+CoS2/PCNF-0.25,0,0,0,0,1,0,0,0,0,0,1,CNF,1D fibers,nanoparticles,supported,22.4,3.0,K,OH,0.0,0.45,10.0,317
+NiS2/CoS2/NC-500,0,0,0,0,1,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,coated,109.08,6.0,K,OH,0.0,0.5,1.0,1325
+NiS2/CoS2/NC-500,0,0,0,0,1,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,coated,109.08,6.0,K,OH,0.0,0.5,2.0,1247
+NiS2/CoS2/NC-500,0,0,0,0,1,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,coated,109.08,6.0,K,OH,0.0,0.5,3.0,1161
+NiS2/CoS2/NC-500,0,0,0,0,1,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,coated,109.08,6.0,K,OH,0.0,0.5,5.0,1048
+NiS2/CoS2/NC-500,0,0,0,0,1,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,coated,109.08,6.0,K,OH,0.0,0.5,8.0,918.4
+NiS2/CoS2/NC-500,0,0,0,0,1,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,coated,109.08,6.0,K,OH,0.0,0.5,10.0,860
+(o)-CoS2@CNT,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,interconnection,28.0,2.0,K,OH,0.0,0.4,0.5,146
+(o)-CoS2@CNT,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,interconnection,28.0,2.0,K,OH,0.0,0.4,1.0,139
+(o)-CoS2@CNT,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,interconnection,28.0,2.0,K,OH,0.0,0.4,2.0,125
+(o)-CoS2@CNT,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,interconnection,28.0,2.0,K,OH,0.0,0.4,5.0,112
+(o)-CoS2@CNT,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,interconnection,28.0,2.0,K,OH,0.0,0.4,10.0,72
+(m)-CoS2@CNT,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,interconnection,8.0,2.0,K,OH,0.0,0.4,0.5,405
+(m)-CoS2@CNT,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,interconnection,8.0,2.0,K,OH,0.0,0.4,1.0,385
+(m)-CoS2@CNT,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,interconnection,8.0,2.0,K,OH,0.0,0.4,2.0,278
+(m)-CoS2@CNT,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,interconnection,8.0,2.0,K,OH,0.0,0.4,5.0,200
+(m)-CoS2@CNT,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,interconnection,8.0,2.0,K,OH,0.0,0.4,10.0,158
+(p)-CoS2@CNT,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,interconnection,18.0,2.0,K,OH,0.0,0.4,0.5,825
+(p)-CoS2@CNT,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,interconnection,18.0,2.0,K,OH,0.0,0.4,1.0,782
+(p)-CoS2@CNT,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,interconnection,18.0,2.0,K,OH,0.0,0.4,2.0,550
+(p)-CoS2@CNT,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,interconnection,18.0,2.0,K,OH,0.0,0.4,5.0,375
+(p)-CoS2@CNT,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,interconnection,18.0,2.0,K,OH,0.0,0.4,10.0,268
+CoS2@MC,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D special,nanoparticles,supported,208.0,2.0,K,OH,0.0,0.45,2.0,513
+CoS2@MC,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D special,nanoparticles,supported,208.0,2.0,K,OH,0.0,0.45,5.0,434
+CoS2@MC,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D special,nanoparticles,supported,208.0,2.0,K,OH,0.0,0.45,10.0,368
+CoS2@MC,0,0,0,0,1,0,0,0,0,0,1,doped carbon-based,3D special,nanoparticles,supported,208.0,2.0,K,OH,0.0,0.45,15.0,324
+NS-0.5,0,0,0,0,0,1,0,0,0,0,0,0,0,hollow morph,0,24.2,2.0,Li,OH,0.0,0.55,5.0,1725
+NS-0.5,0,0,0,0,0,1,0,0,0,0,0,0,0,hollow morph,0,24.2,2.0,Li,OH,0.0,0.55,10.0,1584
+NS-0.5,0,0,0,0,0,1,0,0,0,0,0,0,0,hollow morph,0,24.2,2.0,Li,OH,0.0,0.55,15.0,1489
+NS-0.5,0,0,0,0,0,1,0,0,0,0,0,0,0,hollow morph,0,24.2,2.0,Li,OH,0.0,0.55,20.0,1411
+NS-0.5,0,0,0,0,0,1,0,0,0,0,0,0,0,hollow morph,0,24.2,2.0,Li,OH,0.0,0.55,30.0,1293
+NS-0.5,0,0,0,0,0,1,0,0,0,0,0,0,0,hollow morph,0,24.2,2.0,Li,OH,0.0,0.55,40.0,1193
+pyrite NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,irregular nanoparticles,0,19.93,6.0,K,OH,0.0,0.55,2.0,1072.6
+pyrite NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,irregular nanoparticles,0,19.93,6.0,K,OH,0.0,0.55,3.0,912.7
+pyrite NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,irregular nanoparticles,0,19.93,6.0,K,OH,0.0,0.55,5.0,744.6
+pyrite NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,irregular nanoparticles,0,19.93,6.0,K,OH,0.0,0.55,7.0,618.5
+pyrite NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,irregular nanoparticles,0,19.93,6.0,K,OH,0.0,0.55,10.0,480.7
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,irregular nanoparticles,0,6.31,1.0,K,OH,0.0,0.45,1.0,782.666666666667
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,irregular nanoparticles,0,6.31,1.0,K,OH,0.0,0.45,2.0,590.444444444444
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,irregular nanoparticles,0,6.31,1.0,K,OH,0.0,0.45,5.0,408
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,irregular nanoparticles,0,6.31,1.0,K,OH,0.0,0.45,10.0,310
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,irregular nanoparticles,0,6.31,1.0,K,OH,0.0,0.45,20.0,237.333333333333
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,irregular nanoparticles,0,6.31,1.0,K,OH,0.0,0.45,50.0,168.666666666667
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,bulk,0,66.5,6.0,K,OH,0.0,0.45,0.5,566
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,bulk,0,66.5,6.0,K,OH,0.0,0.45,1.0,536.9
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,bulk,0,66.5,6.0,K,OH,0.0,0.45,2.0,382.7
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,bulk,0,66.5,6.0,K,OH,0.0,0.45,4.0,218.6
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,bulk,0,66.5,6.0,K,OH,0.0,0.45,6.0,112.9
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,bulk,0,66.5,6.0,K,OH,0.0,0.45,8.0,47.8
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,bulk,0,66.5,6.0,K,OH,0.0,0.45,10.0,28.8
+NiS2/MoS2/rGO,0,0,0,0,0,1,0,1,0,0,1,G-based,2D,irregular nanoparticles,supported,119.6,6.0,K,OH,0.0,0.45,0.5,645.3
+NiS2/MoS2/rGO,0,0,0,0,0,1,0,1,0,0,1,G-based,2D,irregular nanoparticles,supported,119.6,6.0,K,OH,0.0,0.45,1.0,594
+NiS2/MoS2/rGO,0,0,0,0,0,1,0,1,0,0,1,G-based,2D,irregular nanoparticles,supported,119.6,6.0,K,OH,0.0,0.45,2.0,426
+NiS2/MoS2/rGO,0,0,0,0,0,1,0,1,0,0,1,G-based,2D,irregular nanoparticles,supported,119.6,6.0,K,OH,0.0,0.45,4.0,317
+NiS2/MoS2/rGO,0,0,0,0,0,1,0,1,0,0,1,G-based,2D,irregular nanoparticles,supported,119.6,6.0,K,OH,0.0,0.45,6.0,253
+NiS2/MoS2/rGO,0,0,0,0,0,1,0,1,0,0,1,G-based,2D,irregular nanoparticles,supported,119.6,6.0,K,OH,0.0,0.45,8.0,201
+NiS2/MoS2/rGO,0,0,0,0,0,1,0,1,0,0,1,G-based,2D,irregular nanoparticles,supported,119.6,6.0,K,OH,0.0,0.45,10.0,128
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,flower-like clusters,0,11.41,2.0,Li,OH,0.0,0.6,1.0,1355
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,flower-like clusters,0,11.41,2.0,Li,OH,0.0,0.6,2.0,1240
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,flower-like clusters,0,11.41,2.0,Li,OH,0.0,0.6,5.0,1133
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,flower-like clusters,0,11.41,2.0,Li,OH,0.0,0.6,10.0,1050
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,flower-like clusters,0,11.41,2.0,Li,OH,0.0,0.6,15.0,1000
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,flower-like clusters,0,11.41,2.0,Li,OH,0.0,0.6,20.0,967
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,hollow morph,0,59.2,6.0,K,OH,0.0,0.55,1.0,1020.2
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,hollow morph,0,59.2,6.0,K,OH,0.0,0.55,2.0,821.2
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,hollow morph,0,59.2,6.0,K,OH,0.0,0.55,3.0,728.7
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,hollow morph,0,59.2,6.0,K,OH,0.0,0.55,5.0,643.6
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,hollow morph,0,59.2,6.0,K,OH,0.0,0.55,7.0,601.8
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,hollow morph,0,59.2,6.0,K,OH,0.0,0.55,10.0,534.9
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,hollow morph,0,12.39,2.0,K,OH,0.0,0.4,2.0,1541
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,hollow morph,0,12.39,2.0,K,OH,0.0,0.4,3.0,1421
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,hollow morph,0,12.39,2.0,K,OH,0.0,0.4,4.0,1349
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,hollow morph,0,12.39,2.0,K,OH,0.0,0.4,8.0,1213
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,hollow morph,0,12.39,2.0,K,OH,0.0,0.4,10.0,1150
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,hollow morph,0,12.39,2.0,K,OH,0.0,0.4,20.0,874
+Ni0.8Co0.2S2,0,0,0,0,1,1,0,0,0,0,0,0,0,irregular nanoparticles,0,6.36,2.0,K,OH,0.0,0.4,2.0,1660
+Ni0.8Co0.2S2,0,0,0,0,1,1,0,0,0,0,0,0,0,irregular nanoparticles,0,6.36,2.0,K,OH,0.0,0.4,3.0,1528
+Ni0.8Co0.2S2,0,0,0,0,1,1,0,0,0,0,0,0,0,irregular nanoparticles,0,6.36,2.0,K,OH,0.0,0.4,4.0,1449
+Ni0.8Co0.2S2,0,0,0,0,1,1,0,0,0,0,0,0,0,irregular nanoparticles,0,6.36,2.0,K,OH,0.0,0.4,8.0,1326
+Ni0.8Co0.2S2,0,0,0,0,1,1,0,0,0,0,0,0,0,irregular nanoparticles,0,6.36,2.0,K,OH,0.0,0.4,10.0,1263
+Ni0.8Co0.2S2,0,0,0,0,1,1,0,0,0,0,0,0,0,irregular nanoparticles,0,6.36,2.0,K,OH,0.0,0.4,20.0,942
+Ni0.75Co0.25S2,0,0,0,0,1,1,0,0,0,0,0,0,0,irregular nanoparticles,0,29.88,2.0,K,OH,0.0,0.4,2.0,2141
+Ni0.75Co0.25S2,0,0,0,0,1,1,0,0,0,0,0,0,0,irregular nanoparticles,0,29.88,2.0,K,OH,0.0,0.4,3.0,2102
+Ni0.75Co0.25S2,0,0,0,0,1,1,0,0,0,0,0,0,0,irregular nanoparticles,0,29.88,2.0,K,OH,0.0,0.4,4.0,2030
+Ni0.75Co0.25S2,0,0,0,0,1,1,0,0,0,0,0,0,0,irregular nanoparticles,0,29.88,2.0,K,OH,0.0,0.4,8.0,1857
+Ni0.75Co0.25S2,0,0,0,0,1,1,0,0,0,0,0,0,0,irregular nanoparticles,0,29.88,2.0,K,OH,0.0,0.4,10.0,1797
+Ni0.75Co0.25S2,0,0,0,0,1,1,0,0,0,0,0,0,0,irregular nanoparticles,0,29.88,2.0,K,OH,0.0,0.4,20.0,1560
+Ni0.5Co0.5S2,0,0,0,0,1,1,0,0,0,0,0,0,0,irregular nanoparticles,0,20.8,2.0,K,OH,0.0,0.4,2.0,1822
+Ni0.5Co0.5S2,0,0,0,0,1,1,0,0,0,0,0,0,0,irregular nanoparticles,0,20.8,2.0,K,OH,0.0,0.4,3.0,1715
+Ni0.5Co0.5S2,0,0,0,0,1,1,0,0,0,0,0,0,0,irregular nanoparticles,0,20.8,2.0,K,OH,0.0,0.4,4.0,1670
+Ni0.5Co0.5S2,0,0,0,0,1,1,0,0,0,0,0,0,0,irregular nanoparticles,0,20.8,2.0,K,OH,0.0,0.4,8.0,1486
+Ni0.5Co0.5S2,0,0,0,0,1,1,0,0,0,0,0,0,0,irregular nanoparticles,0,20.8,2.0,K,OH,0.0,0.4,10.0,1402
+Ni0.5Co0.5S2,0,0,0,0,1,1,0,0,0,0,0,0,0,irregular nanoparticles,0,20.8,2.0,K,OH,0.0,0.4,20.0,1187
+Ni0.25Co0.75S2,0,0,0,0,1,1,0,0,0,0,0,0,0,irregular nanoparticles,0,25.17,2.0,K,OH,0.0,0.4,2.0,1437
+Ni0.25Co0.75S2,0,0,0,0,1,1,0,0,0,0,0,0,0,irregular nanoparticles,0,25.17,2.0,K,OH,0.0,0.4,3.0,1397
+Ni0.25Co0.75S2,0,0,0,0,1,1,0,0,0,0,0,0,0,irregular nanoparticles,0,25.17,2.0,K,OH,0.0,0.4,4.0,1349
+Ni0.25Co0.75S2,0,0,0,0,1,1,0,0,0,0,0,0,0,irregular nanoparticles,0,25.17,2.0,K,OH,0.0,0.4,8.0,1192
+Ni0.25Co0.75S2,0,0,0,0,1,1,0,0,0,0,0,0,0,irregular nanoparticles,0,25.17,2.0,K,OH,0.0,0.4,10.0,1126
+Ni0.25Co0.75S2,0,0,0,0,1,1,0,0,0,0,0,0,0,irregular nanoparticles,0,25.17,2.0,K,OH,0.0,0.4,20.0,835
+Ni0.2Co0.8S2,0,0,0,0,1,1,0,0,0,0,0,0,0,irregular nanoparticles,0,12.93,2.0,K,OH,0.0,0.4,2.0,1831
+Ni0.2Co0.8S2,0,0,0,0,1,1,0,0,0,0,0,0,0,irregular nanoparticles,0,12.93,2.0,K,OH,0.0,0.4,3.0,1575
+Ni0.2Co0.8S2,0,0,0,0,1,1,0,0,0,0,0,0,0,irregular nanoparticles,0,12.93,2.0,K,OH,0.0,0.4,4.0,1560
+Ni0.2Co0.8S2,0,0,0,0,1,1,0,0,0,0,0,0,0,irregular nanoparticles,0,12.93,2.0,K,OH,0.0,0.4,8.0,1345
+Ni0.2Co0.8S2,0,0,0,0,1,1,0,0,0,0,0,0,0,irregular nanoparticles,0,12.93,2.0,K,OH,0.0,0.4,10.0,1247
+Ni0.2Co0.8S2,0,0,0,0,1,1,0,0,0,0,0,0,0,irregular nanoparticles,0,12.93,2.0,K,OH,0.0,0.4,20.0,908
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,irregular nanoparticles,0,25.1,2.0,K,OH,0.0,0.4,2.0,485
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,irregular nanoparticles,0,25.1,2.0,K,OH,0.0,0.4,3.0,464
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,irregular nanoparticles,0,25.1,2.0,K,OH,0.0,0.4,4.0,446
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,irregular nanoparticles,0,25.1,2.0,K,OH,0.0,0.4,8.0,375
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,irregular nanoparticles,0,25.1,2.0,K,OH,0.0,0.4,10.0,354
+CoS2,0,0,0,0,1,0,0,0,0,0,0,0,0,irregular nanoparticles,0,25.1,2.0,K,OH,0.0,0.4,20.0,254
+TD-NiS2/G-0,0,0,0,0,0,1,0,0,0,0,1,G-based,3D special,irregular nanoparticles,embedded,46.0,6.0,K,OH,0.0,0.5,1.0,1443
+TD-NiS2/G-0,0,0,0,0,0,1,0,0,0,0,1,G-based,3D special,irregular nanoparticles,embedded,46.0,6.0,K,OH,0.0,0.5,2.0,1027
+TD-NiS2/G-0,0,0,0,0,0,1,0,0,0,0,1,G-based,3D special,irregular nanoparticles,embedded,46.0,6.0,K,OH,0.0,0.5,5.0,729
+TD-NiS2/G-0,0,0,0,0,0,1,0,0,0,0,1,G-based,3D special,irregular nanoparticles,embedded,46.0,6.0,K,OH,0.0,0.5,10.0,475
+TD-NiS2/G-0,0,0,0,0,0,1,0,0,0,0,1,G-based,3D special,irregular nanoparticles,embedded,46.0,6.0,K,OH,0.0,0.5,20.0,239
+TD-NiS2/G-1,0,0,0,0,0,1,0,0,0,0,1,G-based,3D special,irregular nanoparticles,embedded,126.0,6.0,K,OH,0.0,0.5,1.0,1652
+TD-NiS2/G-1,0,0,0,0,0,1,0,0,0,0,1,G-based,3D special,irregular nanoparticles,embedded,126.0,6.0,K,OH,0.0,0.5,2.0,1155
+TD-NiS2/G-1,0,0,0,0,0,1,0,0,0,0,1,G-based,3D special,irregular nanoparticles,embedded,126.0,6.0,K,OH,0.0,0.5,5.0,926
+TD-NiS2/G-1,0,0,0,0,0,1,0,0,0,0,1,G-based,3D special,irregular nanoparticles,embedded,126.0,6.0,K,OH,0.0,0.5,10.0,768
+TD-NiS2/G-1,0,0,0,0,0,1,0,0,0,0,1,G-based,3D special,irregular nanoparticles,embedded,126.0,6.0,K,OH,0.0,0.5,20.0,594
+TD-NiS2/G-2,0,0,0,0,0,1,0,0,0,0,1,G-based,3D special,irregular nanoparticles,embedded,111.0,6.0,K,OH,0.0,0.5,1.0,1467
+TD-NiS2/G-2,0,0,0,0,0,1,0,0,0,0,1,G-based,3D special,irregular nanoparticles,embedded,111.0,6.0,K,OH,0.0,0.5,2.0,1061
+TD-NiS2/G-2,0,0,0,0,0,1,0,0,0,0,1,G-based,3D special,irregular nanoparticles,embedded,111.0,6.0,K,OH,0.0,0.5,5.0,864
+TD-NiS2/G-2,0,0,0,0,0,1,0,0,0,0,1,G-based,3D special,irregular nanoparticles,embedded,111.0,6.0,K,OH,0.0,0.5,10.0,684
+TD-NiS2/G-2,0,0,0,0,0,1,0,0,0,0,1,G-based,3D special,irregular nanoparticles,embedded,111.0,6.0,K,OH,0.0,0.5,20.0,406
+TD-NiS2/G-3,0,0,0,0,0,1,0,0,0,0,1,G-based,3D special,irregular nanoparticles,embedded,87.0,6.0,K,OH,0.0,0.5,1.0,1362
+TD-NiS2/G-3,0,0,0,0,0,1,0,0,0,0,1,G-based,3D special,irregular nanoparticles,embedded,87.0,6.0,K,OH,0.0,0.5,2.0,968
+TD-NiS2/G-3,0,0,0,0,0,1,0,0,0,0,1,G-based,3D special,irregular nanoparticles,embedded,87.0,6.0,K,OH,0.0,0.5,5.0,734
+TD-NiS2/G-3,0,0,0,0,0,1,0,0,0,0,1,G-based,3D special,irregular nanoparticles,embedded,87.0,6.0,K,OH,0.0,0.5,10.0,556
+TD-NiS2/G-3,0,0,0,0,0,1,0,0,0,0,1,G-based,3D special,irregular nanoparticles,embedded,87.0,6.0,K,OH,0.0,0.5,20.0,345
+NiS2/CNS@N-CNTs,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,1D fibers,irregular nanoparticles,interconnection,62.55,6.0,K,OH,0.0,0.5,0.5,500
+NiS2/CNS@N-CNTs,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,1D fibers,irregular nanoparticles,interconnection,62.55,6.0,K,OH,0.0,0.5,1.0,456
+NiS2/CNS@N-CNTs,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,1D fibers,irregular nanoparticles,interconnection,62.55,6.0,K,OH,0.0,0.5,2.0,408
+NiS2/CNS@N-CNTs,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,1D fibers,irregular nanoparticles,interconnection,62.55,6.0,K,OH,0.0,0.5,3.0,376.2
+NiS2/CNS@N-CNTs,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,1D fibers,irregular nanoparticles,interconnection,62.55,6.0,K,OH,0.0,0.5,5.0,330
+NiS2,0,0,0,0,0,1,0,0,0,0,0,0,0,bulk,0,18.5,6.0,K,OH,0.0,0.4,3.0,834
+NCC2,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,coated,24.6,6.0,K,OH,0.0,0.4,2.0,2212
+NCC2,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,coated,24.6,6.0,K,OH,0.0,0.4,3.0,1634.5
+NCC2,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,coated,24.6,6.0,K,OH,0.0,0.4,4.0,1488
+NCC2,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,coated,24.6,6.0,K,OH,0.0,0.4,5.0,1412
+NCC2,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,coated,24.6,6.0,K,OH,0.0,0.4,7.0,1136
+NCC2,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,coated,24.6,6.0,K,OH,0.0,0.4,10.0,977.5
+NiSx@C-1-200,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,supported,64.3,6.0,K,OH,0.0,0.5,0.5,2021.76
+NiSx@C-1-200,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,supported,64.3,6.0,K,OH,0.0,0.5,1.0,1834.56
+NiSx@C-1-200,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,supported,64.3,6.0,K,OH,0.0,0.5,2.0,1669.68
+NiSx@C-1-200,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,supported,64.3,6.0,K,OH,0.0,0.5,5.0,1399.68
+NiSx@C-1-200,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,supported,64.3,6.0,K,OH,0.0,0.5,10.0,1010.88
+NiSx@C-1-200,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,supported,64.3,6.0,K,OH,0.0,0.5,20.0,825.84
+NiSx@C-1-300,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,supported,121.6,6.0,K,OH,0.0,0.5,0.5,2196.72
+NiSx@C-1-300,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,supported,121.6,6.0,K,OH,0.0,0.5,1.0,1772.64
+NiSx@C-1-300,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,supported,121.6,6.0,K,OH,0.0,0.5,2.0,1556.64
+NiSx@C-1-300,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,supported,121.6,6.0,K,OH,0.0,0.5,5.0,1321.92
+NiSx@C-1-300,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,supported,121.6,6.0,K,OH,0.0,0.5,10.0,1088.64
+NiSx@C-1-300,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,supported,121.6,6.0,K,OH,0.0,0.5,20.0,794.16
+NiSx@C-1-400,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,supported,141.5,6.0,K,OH,0.0,0.5,0.5,3039.84
+NiSx@C-1-400,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,supported,141.5,6.0,K,OH,0.0,0.5,1.0,2413.44
+NiSx@C-1-400,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,supported,141.5,6.0,K,OH,0.0,0.5,2.0,2445.12
+NiSx@C-1-400,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,supported,141.5,6.0,K,OH,0.0,0.5,5.0,2134.08
+NiSx@C-1-400,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,supported,141.5,6.0,K,OH,0.0,0.5,10.0,1710.72
+NiSx@C-1-400,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,supported,141.5,6.0,K,OH,0.0,0.5,20.0,1253.52
+NiSx@C-1-500,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,supported,160.1,6.0,K,OH,0.0,0.5,0.5,2682.72
+NiSx@C-1-500,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,supported,160.1,6.0,K,OH,0.0,0.5,1.0,2519.28
+NiSx@C-1-500,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,supported,160.1,6.0,K,OH,0.0,0.5,2.0,2362.32
+NiSx@C-1-500,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,supported,160.1,6.0,K,OH,0.0,0.5,5.0,2013.84
+NiSx@C-1-500,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,supported,160.1,6.0,K,OH,0.0,0.5,10.0,1555.2
+NiSx@C-1-500,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,supported,160.1,6.0,K,OH,0.0,0.5,20.0,902.16
+NiSx@C-4-300,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,supported,107.8,6.0,K,OH,0.0,0.5,0.5,1535.76
+NiSx@C-4-300,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,supported,107.8,6.0,K,OH,0.0,0.5,1.0,1430.64
+NiSx@C-4-300,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,supported,107.8,6.0,K,OH,0.0,0.5,2.0,1214.64
+NiSx@C-4-300,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,supported,107.8,6.0,K,OH,0.0,0.5,5.0,1080.72
+NiSx@C-4-300,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,supported,107.8,6.0,K,OH,0.0,0.5,10.0,933.12
+NiSx@C-4-300,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,irregular nanoparticles,supported,107.8,6.0,K,OH,0.0,0.5,20.0,622.08
+NiS2/CC,0,0,0,0,0,1,0,0,0,0,1,CNF,1D fibers,flower-like clusters,supported,72.6,3.0,K,OH,0.0,0.4,0.4,1168
+NiS2/CC,0,0,0,0,0,1,0,0,0,0,1,CNF,1D fibers,flower-like clusters,supported,72.6,3.0,K,OH,0.0,0.4,0.8,1074
+NiS2/CC,0,0,0,0,0,1,0,0,0,0,1,CNF,1D fibers,flower-like clusters,supported,72.6,3.0,K,OH,0.0,0.4,1.0,868
+NiS2/CC,0,0,0,0,0,1,0,0,0,0,1,CNF,1D fibers,flower-like clusters,supported,72.6,3.0,K,OH,0.0,0.4,2.0,679
+NiS2/CC,0,0,0,0,0,1,0,0,0,0,1,CNF,1D fibers,flower-like clusters,supported,72.6,3.0,K,OH,0.0,0.4,5.0,582
+2NCC,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,interconnection,12.048,2.0,K,OH,0.0,0.5,0.5,650
+2NCC,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,interconnection,12.048,2.0,K,OH,0.0,0.5,1.0,643
+2NCC,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,interconnection,12.048,2.0,K,OH,0.0,0.5,2.0,614
+2NCC,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,interconnection,12.048,2.0,K,OH,0.0,0.5,3.0,584
+2NCC,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,interconnection,12.048,2.0,K,OH,0.0,0.5,4.0,546
+2NCC,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,interconnection,12.048,2.0,K,OH,0.0,0.5,5.0,509
+4NCC,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,interconnection,43.478,2.0,K,OH,0.0,0.5,0.5,901
+4NCC,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,interconnection,43.478,2.0,K,OH,0.0,0.5,1.0,895
+4NCC,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,interconnection,43.478,2.0,K,OH,0.0,0.5,2.0,848
+4NCC,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,interconnection,43.478,2.0,K,OH,0.0,0.5,3.0,800
+4NCC,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,interconnection,43.478,2.0,K,OH,0.0,0.5,4.0,736
+4NCC,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,interconnection,43.478,2.0,K,OH,0.0,0.5,5.0,672
+6NCC,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,interconnection,52.204,2.0,K,OH,0.0,0.5,0.5,1573
+6NCC,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,interconnection,52.204,2.0,K,OH,0.0,0.5,1.0,1430
+6NCC,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,interconnection,52.204,2.0,K,OH,0.0,0.5,2.0,1251
+6NCC,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,interconnection,52.204,2.0,K,OH,0.0,0.5,3.0,1128
+6NCC,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,interconnection,52.204,2.0,K,OH,0.0,0.5,4.0,1024
+6NCC,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,interconnection,52.204,2.0,K,OH,0.0,0.5,5.0,930
+8NCC,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,interconnection,37.656,2.0,K,OH,0.0,0.5,0.5,729
+8NCC,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,interconnection,37.656,2.0,K,OH,0.0,0.5,1.0,678
+8NCC,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,interconnection,37.656,2.0,K,OH,0.0,0.5,2.0,614
+8NCC,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,interconnection,37.656,2.0,K,OH,0.0,0.5,3.0,549
+8NCC,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,interconnection,37.656,2.0,K,OH,0.0,0.5,4.0,478
+8NCC,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,nanoparticles,interconnection,37.656,2.0,K,OH,0.0,0.5,5.0,419
+NiS2@HCS,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,hollow morph,coated,18.0,2.0,K,OH,0.0,0.4,1.0,1707.5
+NiS2@HCS,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,hollow morph,coated,18.0,2.0,K,OH,0.0,0.4,10.0,701.25
+PProDOT/NiS2@HCS,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,hollow morph,coated,24.0,2.0,K,OH,0.0,0.4,1.0,1843.25
+PProDOT/NiS2@HCS,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,hollow morph,coated,24.0,2.0,K,OH,0.0,0.4,2.0,1742.75
+PProDOT/NiS2@HCS,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,hollow morph,coated,24.0,2.0,K,OH,0.0,0.4,3.0,1661
+PProDOT/NiS2@HCS,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,hollow morph,coated,24.0,2.0,K,OH,0.0,0.4,5.0,1537
+PProDOT/NiS2@HCS,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,hollow morph,coated,24.0,2.0,K,OH,0.0,0.4,7.0,1414.25
+PProDOT/NiS2@HCS,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,hollow morph,coated,24.0,2.0,K,OH,0.0,0.4,10.0,1280.25
+PProDOT/NiS2@HCS,0,0,0,0,0,1,0,0,0,0,1,doped carbon-based,3D porous,hollow morph,coated,24.0,2.0,K,OH,0.0,0.4,15.0,1121.5
+ZrS2,0,0,0,0,0,0,1,0,0,0,0,0,0,bulk,0,32.0,2.0,K,OH,-0.1,0.55,1.0,813.5
+ZrS2,0,0,0,0,0,0,1,0,0,0,0,0,0,bulk,0,32.0,2.0,K,OH,-0.1,0.55,1.0,638
+ZrS2,0,0,0,0,0,0,1,0,0,0,0,0,0,bulk,0,32.0,2.0,K,OH,-0.1,0.55,1.0,515
+ZrS2@rGO,0,0,0,0,0,0,1,0,0,0,1,G-based,2D,bulk,supported,59.0,2.0,K,OH,-0.1,0.55,1.0,1238
+ZrS2@rGO,0,0,0,0,0,0,1,0,0,0,1,G-based,2D,bulk,supported,59.0,2.0,K,OH,-0.1,0.55,2.0,784
+ZrS2@rGO,0,0,0,0,0,0,1,0,0,0,1,G-based,2D,bulk,supported,59.0,2.0,K,OH,-0.1,0.55,3.0,565
+OA-MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,12.7,1.0,Na,SO4,-0.8,-0.3,1.0,100
+OA-MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,12.7,1.0,Na,SO4,-0.8,-0.3,2.0,89
+OA-MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,12.7,1.0,Na,SO4,-0.8,-0.3,3.0,83
+OA-MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,12.7,1.0,Na,SO4,-0.8,-0.3,5.0,77
+OA-MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,12.7,1.0,Na,SO4,-0.8,-0.3,7.0,72
+OA-MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,12.7,1.0,Na,SO4,-0.8,-0.3,10.0,66
+OA-MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,12.7,1.0,Na,SO4,-0.8,-0.3,15.0,58
+OA-MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,12.7,1.0,Na,SO4,-0.8,-0.3,20.0,52
+CA-MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,19.5,1.0,Na,SO4,-0.8,-0.3,1.0,180
+CA-MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,19.5,1.0,Na,SO4,-0.8,-0.3,2.0,141
+CA-MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,19.5,1.0,Na,SO4,-0.8,-0.3,3.0,130
+CA-MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,19.5,1.0,Na,SO4,-0.8,-0.3,5.0,119
+CA-MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,19.5,1.0,Na,SO4,-0.8,-0.3,7.0,113
+CA-MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,19.5,1.0,Na,SO4,-0.8,-0.3,10.0,105
+CA-MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,19.5,1.0,Na,SO4,-0.8,-0.3,15.0,95
+CA-MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,19.5,1.0,Na,SO4,-0.8,-0.3,20.0,86
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,nanosheets,0,22.0,1.0,H,SO4,-0.1,0.6,0.5,148
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,nanosheets,0,22.0,1.0,H,SO4,-0.1,0.6,1.0,136
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,nanosheets,0,22.0,1.0,H,SO4,-0.1,0.6,2.0,123
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,nanosheets,0,22.0,1.0,H,SO4,-0.1,0.6,5.0,113
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,nanosheets,0,22.0,1.0,H,SO4,-0.1,0.6,10.0,102
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,nanosheets,0,22.0,1.0,H,SO4,-0.1,0.6,20.0,97
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,nanosheets,0,22.0,1.0,H,SO4,-0.1,0.6,30.0,94
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,18.68,1.0,K,Cl,-0.9,0.2,0.5,178
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,18.68,1.0,K,Cl,-0.9,0.2,1.0,168
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,18.68,1.0,K,Cl,-0.9,0.2,2.0,159
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,18.68,1.0,K,Cl,-0.9,0.2,4.0,148
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,21.1,1.0,Na,SO4,-0.8,0.2,1.0,129.2
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,21.1,1.0,Na,SO4,-0.8,0.2,1.5,115.1
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,21.1,1.0,Na,SO4,-0.8,0.2,3.0,102.3
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,21.1,1.0,Na,SO4,-0.8,0.2,5.0,92
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,21.1,1.0,Na,SO4,-0.8,0.2,10.0,73.8
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,nanosheets,0,6.64,1.0,Na,SO4,-0.8,0.2,0.1,226.1
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,nanosheets,0,6.64,1.0,Na,SO4,-0.8,0.2,0.2,150.7
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,nanosheets,0,6.64,1.0,Na,SO4,-0.8,0.2,0.3,133.8
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,nanosheets,0,6.64,1.0,Na,SO4,-0.8,0.2,0.5,101.5
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,nanosheets,0,6.64,1.0,Na,SO4,-0.8,0.2,0.6,85.4
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,nanosheets,0,6.64,1.0,Na,SO4,-0.8,0.2,0.7,75.3
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,nanosheets,0,6.64,1.0,Na,SO4,-0.8,0.2,1.0,34.6
+MoS2/G,0,0,0,0,0,0,0,1,0,0,1,G-based,2D,nanosheets,supported,365.8,1.0,Na,SO4,-0.8,0.2,0.1,270
+MoS2/G,0,0,0,0,0,0,0,1,0,0,1,G-based,2D,nanosheets,supported,365.8,1.0,Na,SO4,-0.8,0.2,0.2,240
+MoS2/G,0,0,0,0,0,0,0,1,0,0,1,G-based,2D,nanosheets,supported,365.8,1.0,Na,SO4,-0.8,0.2,0.3,180
+MoS2/G,0,0,0,0,0,0,0,1,0,0,1,G-based,2D,nanosheets,supported,365.8,1.0,Na,SO4,-0.8,0.2,0.5,155
+MoS2/G,0,0,0,0,0,0,0,1,0,0,1,G-based,2D,nanosheets,supported,365.8,1.0,Na,SO4,-0.8,0.2,0.6,135.5
+MoS2/G,0,0,0,0,0,0,0,1,0,0,1,G-based,2D,nanosheets,supported,365.8,1.0,Na,SO4,-0.8,0.2,0.7,126
+MoS2/G,0,0,0,0,0,0,0,1,0,0,1,G-based,2D,nanosheets,supported,365.8,1.0,Na,SO4,-0.8,0.2,1.0,90
+MSRCF-24,0,0,0,0,0,0,0,1,0,0,1,CNF,1D fibers,flower-like clusters,supported,115.0,1.0,Na,SO4,-0.7,0.0,0.5,225
+MSRCF-24,0,0,0,0,0,0,0,1,0,0,1,CNF,1D fibers,flower-like clusters,supported,115.0,1.0,Na,SO4,-0.7,0.0,1.0,214.8
+MSRCF-24,0,0,0,0,0,0,0,1,0,0,1,CNF,1D fibers,flower-like clusters,supported,115.0,1.0,Na,SO4,-0.7,0.0,2.0,131
+MSRCF-24,0,0,0,0,0,0,0,1,0,0,1,CNF,1D fibers,flower-like clusters,supported,115.0,1.0,Na,SO4,-0.7,0.0,3.0,120
+MSRCF-24,0,0,0,0,0,0,0,1,0,0,1,CNF,1D fibers,flower-like clusters,supported,115.0,1.0,Na,SO4,-0.7,0.0,4.0,112
+MSRCF-24,0,0,0,0,0,0,0,1,0,0,1,CNF,1D fibers,flower-like clusters,supported,115.0,1.0,Na,SO4,-0.7,0.0,5.0,106
+pure MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,30.0,3.0,K,OH,0.0,0.42,1.0,159
+pure MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,30.0,3.0,K,OH,0.0,0.42,2.0,149
+pure MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,30.0,3.0,K,OH,0.0,0.42,3.0,135
+pure MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,30.0,3.0,K,OH,0.0,0.42,5.0,124
+pure MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,30.0,3.0,K,OH,0.0,0.42,10.0,112
+pure MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,30.0,3.0,K,OH,0.0,0.42,20.0,99
+MoS2/C(3:1),0,0,0,0,0,0,0,1,0,0,1,doped carbon-based,3D special,flower-like clusters,embedded,39.4,3.0,K,OH,0.0,0.42,1.0,452.7
+MoS2/C(3:1),0,0,0,0,0,0,0,1,0,0,1,doped carbon-based,3D special,flower-like clusters,embedded,39.4,3.0,K,OH,0.0,0.42,2.0,404.3
+MoS2/C(3:1),0,0,0,0,0,0,0,1,0,0,1,doped carbon-based,3D special,flower-like clusters,embedded,39.4,3.0,K,OH,0.0,0.42,3.0,395.4
+MoS2/C(3:1),0,0,0,0,0,0,0,1,0,0,1,doped carbon-based,3D special,flower-like clusters,embedded,39.4,3.0,K,OH,0.0,0.42,5.0,386.3
+MoS2/C(3:1),0,0,0,0,0,0,0,1,0,0,1,doped carbon-based,3D special,flower-like clusters,embedded,39.4,3.0,K,OH,0.0,0.42,10.0,318.1
+MoS2/C(3:1),0,0,0,0,0,0,0,1,0,0,1,doped carbon-based,3D special,flower-like clusters,embedded,39.4,3.0,K,OH,0.0,0.42,20.0,272.7
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,9.28,6.0,K,OH,0.0,0.5,2.0,109
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,9.28,6.0,K,OH,0.0,0.5,5.0,100
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,9.28,6.0,K,OH,0.0,0.5,10.0,75
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,flower-like clusters,0,9.28,6.0,K,OH,0.0,0.5,15.0,61
+MoS2_50mg GF,0,0,0,0,0,0,0,1,0,0,1,G-based,2D,flower-like clusters,supported,10.31,6.0,K,OH,0.0,0.5,2.0,132
+MoS2_50mg GF,0,0,0,0,0,0,0,1,0,0,1,G-based,2D,flower-like clusters,supported,10.31,6.0,K,OH,0.0,0.5,5.0,111
+MoS2_50mg GF,0,0,0,0,0,0,0,1,0,0,1,G-based,2D,flower-like clusters,supported,10.31,6.0,K,OH,0.0,0.5,10.0,89
+MoS2_50mg GF,0,0,0,0,0,0,0,1,0,0,1,G-based,2D,flower-like clusters,supported,10.31,6.0,K,OH,0.0,0.5,15.0,66
+MoS2_100mg GF,0,0,0,0,0,0,0,1,0,0,1,G-based,2D,flower-like clusters,supported,15.01,6.0,K,OH,0.0,0.5,2.0,145
+MoS2_100mg GF,0,0,0,0,0,0,0,1,0,0,1,G-based,2D,flower-like clusters,supported,15.01,6.0,K,OH,0.0,0.5,5.0,132
+MoS2_100mg GF,0,0,0,0,0,0,0,1,0,0,1,G-based,2D,flower-like clusters,supported,15.01,6.0,K,OH,0.0,0.5,10.0,111
+MoS2_100mg GF,0,0,0,0,0,0,0,1,0,0,1,G-based,2D,flower-like clusters,supported,15.01,6.0,K,OH,0.0,0.5,15.0,98
+MoS2_150mg GF,0,0,0,0,0,0,0,1,0,0,1,G-based,2D,flower-like clusters,supported,26.07,6.0,K,OH,0.0,0.5,2.0,212
+MoS2_150mg GF,0,0,0,0,0,0,0,1,0,0,1,G-based,2D,flower-like clusters,supported,26.07,6.0,K,OH,0.0,0.5,5.0,155
+MoS2_150mg GF,0,0,0,0,0,0,0,1,0,0,1,G-based,2D,flower-like clusters,supported,26.07,6.0,K,OH,0.0,0.5,10.0,133
+MoS2_150mg GF,0,0,0,0,0,0,0,1,0,0,1,G-based,2D,flower-like clusters,supported,26.07,6.0,K,OH,0.0,0.5,15.0,105
+MoS2_200mg GF,0,0,0,0,0,0,0,1,0,0,1,G-based,2D,flower-like clusters,supported,13.28,6.0,K,OH,0.0,0.5,2.0,199
+MoS2_200mg GF,0,0,0,0,0,0,0,1,0,0,1,G-based,2D,flower-like clusters,supported,13.28,6.0,K,OH,0.0,0.5,5.0,136
+MoS2_200mg GF,0,0,0,0,0,0,0,1,0,0,1,G-based,2D,flower-like clusters,supported,13.28,6.0,K,OH,0.0,0.5,10.0,120
+MoS2_200mg GF,0,0,0,0,0,0,0,1,0,0,1,G-based,2D,flower-like clusters,supported,13.28,6.0,K,OH,0.0,0.5,15.0,100
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,nanosheets,0,21.1,1.0,Na,SO4,-0.8,0.2,1.0,119
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,nanosheets,0,21.1,1.0,Na,SO4,-0.8,0.2,1.5,108
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,nanosheets,0,21.1,1.0,Na,SO4,-0.8,0.2,3.0,94
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,nanosheets,0,21.1,1.0,Na,SO4,-0.8,0.2,5.0,85
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,nanosheets,0,21.1,1.0,Na,SO4,-0.8,0.2,10.0,71
+MoS2/carbon aerogel,0,0,0,0,0,0,0,1,0,0,1,doped carbon-based,3D porous,nanosheets,supported,918.0,1.0,Na,SO4,-0.8,0.2,1.0,251
+MoS2/carbon aerogel,0,0,0,0,0,0,0,1,0,0,1,doped carbon-based,3D porous,nanosheets,supported,918.0,1.0,Na,SO4,-0.8,0.2,1.5,233
+MoS2/carbon aerogel,0,0,0,0,0,0,0,1,0,0,1,doped carbon-based,3D porous,nanosheets,supported,918.0,1.0,Na,SO4,-0.8,0.2,3.0,215
+MoS2/carbon aerogel,0,0,0,0,0,0,0,1,0,0,1,doped carbon-based,3D porous,nanosheets,supported,918.0,1.0,Na,SO4,-0.8,0.2,5.0,196
+MoS2/carbon aerogel,0,0,0,0,0,0,0,1,0,0,1,doped carbon-based,3D porous,nanosheets,supported,918.0,1.0,Na,SO4,-0.8,0.2,10.0,181
+MG-5,0,0,0,0,0,0,0,1,0,0,1,G-based,2D,nanosheets,supported,70.1,1.0,H,SO4,-0.6,0.2,0.75,331
+MG-5,0,0,0,0,0,0,0,1,0,0,1,G-based,2D,nanosheets,supported,70.1,1.0,H,SO4,-0.6,0.2,1.0,310
+MG-5,0,0,0,0,0,0,0,1,0,0,1,G-based,2D,nanosheets,supported,70.1,1.0,H,SO4,-0.6,0.2,2.0,247
+MG-5,0,0,0,0,0,0,0,1,0,0,1,G-based,2D,nanosheets,supported,70.1,1.0,H,SO4,-0.6,0.2,3.0,231
+MG-5,0,0,0,0,0,0,0,1,0,0,1,G-based,2D,nanosheets,supported,70.1,1.0,H,SO4,-0.6,0.2,4.0,216
+MG-5,0,0,0,0,0,0,0,1,0,0,1,G-based,2D,nanosheets,supported,70.1,1.0,H,SO4,-0.6,0.2,5.0,206
+MG-5,0,0,0,0,0,0,0,1,0,0,1,G-based,2D,nanosheets,supported,70.1,1.0,H,SO4,-0.6,0.2,10.0,172
+MG-10,0,0,0,0,0,0,0,1,0,0,1,G-based,2D,nanosheets,supported,24.8,1.0,H,SO4,-0.6,0.2,0.75,103
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,irregular nanoparticles,0,1.75,1.0,K,OH,0.0,0.6,2.0,173
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,irregular nanoparticles,0,1.75,1.0,K,OH,0.0,0.6,4.0,169
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,irregular nanoparticles,0,1.75,1.0,K,OH,0.0,0.6,6.0,146
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,irregular nanoparticles,0,1.75,1.0,K,OH,0.0,0.6,8.0,125
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,irregular nanoparticles,0,1.75,1.0,K,OH,0.0,0.6,10.0,111
+MoS2,0,0,0,0,0,0,0,1,0,0,0,0,0,irregular nanoparticles,0,1.75,1.0,K,OH,0.0,0.6,20.0,102
+rGO-MoS2-WS2,0,0,0,0,0,0,0,1,0,1,1,G-based,2D,nanosheets,supported,109.0,3.0,K,OH,0.0,0.4,1.0,365
+rGO-MoS2-WS2,0,0,0,0,0,0,0,1,0,1,1,G-based,2D,nanosheets,supported,109.0,3.0,K,OH,0.0,0.4,2.0,343
+rGO-MoS2-WS2,0,0,0,0,0,0,0,1,0,1,1,G-based,2D,nanosheets,supported,109.0,3.0,K,OH,0.0,0.4,4.0,312
+rGO-MoS2-WS2,0,0,0,0,0,0,0,1,0,1,1,G-based,2D,nanosheets,supported,109.0,3.0,K,OH,0.0,0.4,8.0,280
+FL-SnS2,0,0,0,0,0,0,0,0,1,0,0,0,0,flower-like clusters,0,64.8,2.0,K,OH,0.0,0.5,1.0,431.82
+FL-SnS2,0,0,0,0,0,0,0,0,1,0,0,0,0,flower-like clusters,0,64.8,2.0,K,OH,0.0,0.5,2.0,398.88
+FL-SnS2,0,0,0,0,0,0,0,0,1,0,0,0,0,flower-like clusters,0,64.8,2.0,K,OH,0.0,0.5,3.0,312.18
+FL-SnS2,0,0,0,0,0,0,0,0,1,0,0,0,0,flower-like clusters,0,64.8,2.0,K,OH,0.0,0.5,5.0,272
+FL-SnS2,0,0,0,0,0,0,0,0,1,0,0,0,0,flower-like clusters,0,64.8,2.0,K,OH,0.0,0.5,7.0,230.7
+FL-SnS2,0,0,0,0,0,0,0,0,1,0,0,0,0,flower-like clusters,0,64.8,2.0,K,OH,0.0,0.5,8.0,156.88
+FL-SnS2,0,0,0,0,0,0,0,0,1,0,0,0,0,flower-like clusters,0,64.8,2.0,K,OH,0.0,0.5,10.0,126.2
+SL-SnS2,0,0,0,0,0,0,0,0,1,0,0,0,0,bulk,0,27.4,2.0,K,OH,0.0,0.5,1.0,112.72
+SL-SnS2,0,0,0,0,0,0,0,0,1,0,0,0,0,bulk,0,27.4,2.0,K,OH,0.0,0.5,2.0,104.95
+SL-SnS2,0,0,0,0,0,0,0,0,1,0,0,0,0,bulk,0,27.4,2.0,K,OH,0.0,0.5,3.0,67.76
+SL-SnS2,0,0,0,0,0,0,0,0,1,0,0,0,0,bulk,0,27.4,2.0,K,OH,0.0,0.5,5.0,67
+SL-SnS2,0,0,0,0,0,0,0,0,1,0,0,0,0,bulk,0,27.4,2.0,K,OH,0.0,0.5,7.0,44.24
+SL-SnS2,0,0,0,0,0,0,0,0,1,0,0,0,0,bulk,0,27.4,2.0,K,OH,0.0,0.5,8.0,35.36
+SL-SnS2,0,0,0,0,0,0,0,0,1,0,0,0,0,bulk,0,27.4,2.0,K,OH,0.0,0.5,10.0,28.8
+EL-SnS2,0,0,0,0,0,0,0,0,1,0,0,0,0,irregular nanoparticles,0,32.9,2.0,K,OH,0.0,0.5,1.0,390.38
+EL-SnS2,0,0,0,0,0,0,0,0,1,0,0,0,0,irregular nanoparticles,0,32.9,2.0,K,OH,0.0,0.5,2.0,366.24
+EL-SnS2,0,0,0,0,0,0,0,0,1,0,0,0,0,irregular nanoparticles,0,32.9,2.0,K,OH,0.0,0.5,3.0,247.2
+EL-SnS2,0,0,0,0,0,0,0,0,1,0,0,0,0,irregular nanoparticles,0,32.9,2.0,K,OH,0.0,0.5,5.0,240.3
+EL-SnS2,0,0,0,0,0,0,0,0,1,0,0,0,0,irregular nanoparticles,0,32.9,2.0,K,OH,0.0,0.5,7.0,171.52
+EL-SnS2,0,0,0,0,0,0,0,0,1,0,0,0,0,irregular nanoparticles,0,32.9,2.0,K,OH,0.0,0.5,8.0,121.04
+EL-SnS2,0,0,0,0,0,0,0,0,1,0,0,0,0,irregular nanoparticles,0,32.9,2.0,K,OH,0.0,0.5,10.0,100.4
+SnS2,0,0,0,0,0,0,0,0,1,0,0,0,0,nanosheets,0,17.5,3.5,K,OH,-0.1,0.4,1.0,89.4
+SnS2,0,0,0,0,0,0,0,0,1,0,0,0,0,nanosheets,0,17.5,3.5,K,OH,-0.1,0.4,2.0,71.3
+SnS2,0,0,0,0,0,0,0,0,1,0,0,0,0,nanosheets,0,17.5,3.5,K,OH,-0.1,0.4,4.0,64.9
+SnS2,0,0,0,0,0,0,0,0,1,0,0,0,0,nanosheets,0,17.5,3.5,K,OH,-0.1,0.4,10.0,50.6
+m-SnS2,0,0,0,0,0,0,0,1,1,0,0,0,0,flower-like clusters,0,31.4,3.5,K,OH,-0.1,0.4,1.0,213.2
+m-SnS2,0,0,0,0,0,0,0,1,1,0,0,0,0,flower-like clusters,0,31.4,3.5,K,OH,-0.1,0.4,2.0,184.2
+m-SnS2,0,0,0,0,0,0,0,1,1,0,0,0,0,flower-like clusters,0,31.4,3.5,K,OH,-0.1,0.4,4.0,152.6
+m-SnS2,0,0,0,0,0,0,0,1,1,0,0,0,0,flower-like clusters,0,31.4,3.5,K,OH,-0.1,0.4,10.0,78.7
+SnS2,0,0,0,0,0,0,0,0,1,0,0,0,0,flower-like clusters,0,10.68,1.0,K,Cl,0.0,0.8,1.0,125
+SnS2,0,0,0,0,0,0,0,0,1,0,0,0,0,irregular nanoparticles,0,52.44,2.0,K,OH,0.0,0.42,1.0,497
+SnS2,0,0,0,0,0,0,0,0,1,0,0,0,0,irregular nanoparticles,0,52.44,2.0,K,OH,0.0,0.42,1.5,471
+SnS2,0,0,0,0,0,0,0,0,1,0,0,0,0,irregular nanoparticles,0,52.44,2.0,K,OH,0.0,0.42,2.0,454
+SnS2,0,0,0,0,0,0,0,0,1,0,0,0,0,irregular nanoparticles,0,52.44,2.0,K,OH,0.0,0.42,2.5,437
+SnS2,0,0,0,0,0,0,0,0,1,0,0,0,0,irregular nanoparticles,0,52.44,2.0,K,OH,0.0,0.42,3.0,429
+SnS2,0,0,0,0,0,0,0,0,1,0,0,0,0,irregular nanoparticles,0,52.44,2.0,K,OH,0.0,0.42,5.0,343
+MWCNT/SnS2,0,0,0,0,0,0,0,0,1,0,1,CNT,3D special,irregular nanoparticles,interconnection,64.29,2.0,K,OH,0.0,0.42,1.0,938
+MWCNT/SnS2,0,0,0,0,0,0,0,0,1,0,1,CNT,3D special,irregular nanoparticles,interconnection,64.29,2.0,K,OH,0.0,0.42,1.5,906
+MWCNT/SnS2,0,0,0,0,0,0,0,0,1,0,1,CNT,3D special,irregular nanoparticles,interconnection,64.29,2.0,K,OH,0.0,0.42,2.0,882
+MWCNT/SnS2,0,0,0,0,0,0,0,0,1,0,1,CNT,3D special,irregular nanoparticles,interconnection,64.29,2.0,K,OH,0.0,0.42,2.5,857
+MWCNT/SnS2,0,0,0,0,0,0,0,0,1,0,1,CNT,3D special,irregular nanoparticles,interconnection,64.29,2.0,K,OH,0.0,0.42,3.0,803
+MWCNT/SnS2,0,0,0,0,0,0,0,0,1,0,1,CNT,3D special,irregular nanoparticles,interconnection,64.29,2.0,K,OH,0.0,0.42,3.5,774
+MWCNT/SnS2,0,0,0,0,0,0,0,0,1,0,1,CNT,3D special,irregular nanoparticles,interconnection,64.29,2.0,K,OH,0.0,0.42,4.0,730
+MWCNT/SnS2,0,0,0,0,0,0,0,0,1,0,1,CNT,3D special,irregular nanoparticles,interconnection,64.29,2.0,K,OH,0.0,0.42,4.5,704
+MWCNT/SnS2,0,0,0,0,0,0,0,0,1,0,1,CNT,3D special,irregular nanoparticles,interconnection,64.29,2.0,K,OH,0.0,0.42,5.0,682
+SnS2 solid,0,0,0,0,0,0,0,0,1,0,0,0,0,irregular nanoparticles,0,25.0,1.0,Li,SO4,-0.6,0.4,1.0,45.65
+SnS2 solid,0,0,0,0,0,0,0,0,1,0,0,0,0,irregular nanoparticles,0,25.0,1.0,Na,SO4,-0.3,0.7,1.0,18.4
+SnS2 solid,0,0,0,0,0,0,0,0,1,0,0,0,0,irregular nanoparticles,0,25.0,1.0,K,OH,-0.6,0.4,1.0,62.85
+SnS2 porous,0,0,0,0,0,0,0,0,1,0,0,0,0,flower-like clusters,0,42.0,1.0,Li,SO4,-0.6,0.4,1.0,112
+SnS2 porous,0,0,0,0,0,0,0,0,1,0,0,0,0,flower-like clusters,0,42.0,1.0,Na,SO4,-0.3,0.7,1.0,19.74
+SnS2 porous,0,0,0,0,0,0,0,0,1,0,0,0,0,flower-like clusters,0,42.0,1.0,K,OH,-0.6,0.4,1.0,89.14
+SnS2 nanorods,0,0,0,0,0,0,0,0,1,0,0,0,0,nanoparticles,0,72.4,1.0,Na,OH,-0.2,0.6,3.0,165.2
+SnS2 nanorods,0,0,0,0,0,0,0,0,1,0,0,0,0,nanoparticles,0,72.4,1.0,Na,OH,-0.2,0.6,3.5,160
+SnS2 nanorods,0,0,0,0,0,0,0,0,1,0,0,0,0,nanoparticles,0,72.4,1.0,Na,OH,-0.2,0.6,5.0,131.3
+SnS2 nanorods,0,0,0,0,0,0,0,0,1,0,0,0,0,nanoparticles,0,72.4,1.0,Na,OH,-0.2,0.6,10.0,122
+SnS2 nanorods,0,0,0,0,0,0,0,0,1,0,0,0,0,nanoparticles,0,72.4,1.0,Na,OH,-0.2,0.6,20.0,108
+pristine SnS2,0,0,0,0,0,0,0,0,1,0,0,0,0,nanosheets,0,44.6,2.0,K,OH,-0.4,0.2,1.0,85.4
+pristine SnS2,0,0,0,0,0,0,0,0,1,0,0,0,0,nanosheets,0,44.6,2.0,K,OH,-0.4,0.2,2.0,47.7
+pristine SnS2,0,0,0,0,0,0,0,0,1,0,0,0,0,nanosheets,0,44.6,2.0,K,OH,-0.4,0.2,3.0,32.5
+pristine SnS2,0,0,0,0,0,0,0,0,1,0,0,0,0,nanosheets,0,44.6,2.0,K,OH,-0.4,0.2,4.0,17
+pristine SnS2,0,0,0,0,0,0,0,0,1,0,0,0,0,nanosheets,0,44.6,2.0,K,OH,-0.4,0.2,5.0,14.8
+SnS2-G,0,0,0,0,0,0,0,0,1,0,1,G-based,2D,nanosheets,coated,115.0,2.0,K,OH,-0.4,0.2,1.0,565
+SnS2-G,0,0,0,0,0,0,0,0,1,0,1,G-based,2D,nanosheets,coated,115.0,2.0,K,OH,-0.4,0.2,2.0,367
+SnS2-G,0,0,0,0,0,0,0,0,1,0,1,G-based,2D,nanosheets,coated,115.0,2.0,K,OH,-0.4,0.2,3.0,288
+SnS2-G,0,0,0,0,0,0,0,0,1,0,1,G-based,2D,nanosheets,coated,115.0,2.0,K,OH,-0.4,0.2,4.0,232
+SnS2-G,0,0,0,0,0,0,0,0,1,0,1,G-based,2D,nanosheets,coated,115.0,2.0,K,OH,-0.4,0.2,5.0,195
+SnS2 NPs,0,0,0,0,0,0,0,0,1,0,0,0,0,irregular nanoparticles,0,78.22,2.0,K,OH,0.0,0.45,0.3,124.79
+SnS2 NPs,0,0,0,0,0,0,0,0,1,0,0,0,0,irregular nanoparticles,0,78.22,2.0,K,OH,0.0,0.45,0.5,121.18
+SnS2 NPs,0,0,0,0,0,0,0,0,1,0,0,0,0,irregular nanoparticles,0,78.22,2.0,K,OH,0.0,0.45,1.0,106.53
+SnS2 NPs,0,0,0,0,0,0,0,0,1,0,0,0,0,irregular nanoparticles,0,78.22,2.0,K,OH,0.0,0.45,3.0,77.42
+SnS2 NPs,0,0,0,0,0,0,0,0,1,0,0,0,0,irregular nanoparticles,0,78.22,2.0,K,OH,0.0,0.45,5.0,65.32
+SnS2 NPs,0,0,0,0,0,0,0,0,1,0,0,0,0,irregular nanoparticles,0,78.22,2.0,K,OH,0.0,0.45,10.0,49.45
+SnS2/RGO_1 NCP,0,0,0,0,0,0,0,0,1,0,1,G-based,2D,irregular nanoparticles,supported,41.82,2.0,K,OH,0.0,0.45,0.3,273.54
+SnS2/RGO_1 NCP,0,0,0,0,0,0,0,0,1,0,1,G-based,2D,irregular nanoparticles,supported,41.82,2.0,K,OH,0.0,0.45,0.5,232.97
+SnS2/RGO_1 NCP,0,0,0,0,0,0,0,0,1,0,1,G-based,2D,irregular nanoparticles,supported,41.82,2.0,K,OH,0.0,0.45,1.0,201.33
+SnS2/RGO_1 NCP,0,0,0,0,0,0,0,0,1,0,1,G-based,2D,irregular nanoparticles,supported,41.82,2.0,K,OH,0.0,0.45,3.0,155.62
+SnS2/RGO_1 NCP,0,0,0,0,0,0,0,0,1,0,1,G-based,2D,irregular nanoparticles,supported,41.82,2.0,K,OH,0.0,0.45,5.0,134.48
+SnS2/RGO_1 NCP,0,0,0,0,0,0,0,0,1,0,1,G-based,2D,irregular nanoparticles,supported,41.82,2.0,K,OH,0.0,0.45,10.0,101.31
+P-WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,irregular nanoparticles,0,16.64,2.0,K,OH,-0.4,0.2,0.75,241.5
+P-WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,irregular nanoparticles,0,16.64,2.0,K,OH,-0.4,0.2,1.0,208.13
+P-WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,irregular nanoparticles,0,16.64,2.0,K,OH,-0.4,0.2,2.0,177.8
+P-WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,irregular nanoparticles,0,16.64,2.0,K,OH,-0.4,0.2,3.0,167.85
+P-WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,irregular nanoparticles,0,16.64,2.0,K,OH,-0.4,0.2,4.0,160.06
+P-WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,irregular nanoparticles,0,16.64,2.0,K,OH,-0.4,0.2,5.0,155.08
+P-WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,irregular nanoparticles,0,16.64,2.0,K,OH,-0.4,0.2,6.0,150
+P-WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,irregular nanoparticles,0,16.64,2.0,K,OH,-0.4,0.2,7.0,147.58
+P-WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,irregular nanoparticles,0,16.64,2.0,K,OH,-0.4,0.2,10.0,139
+WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,nanosheets,0,5.24,3.0,K,OH,0.0,0.55,1.0,261.8
+WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,nanosheets,0,5.24,3.0,K,OH,0.0,0.55,1.5,220.9
+WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,nanosheets,0,5.24,3.0,K,OH,0.0,0.55,2.0,163.6
+WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,nanosheets,0,5.24,3.0,K,OH,0.0,0.55,2.5,86.3
+WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,nanosheets,0,5.24,3.0,K,OH,0.0,0.55,3.0,65.4
+WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,flower-like clusters,0,39.89,1.0,H,SO4,-0.3,0.6,0.5,156
+WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,flower-like clusters,0,39.89,1.0,H,SO4,-0.3,0.6,0.8,113.3
+WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,flower-like clusters,0,39.89,1.0,H,SO4,-0.3,0.6,1.0,95.6
+WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,flower-like clusters,0,39.89,1.0,H,SO4,-0.3,0.6,3.0,74.3
+WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,flower-like clusters,0,39.89,1.0,H,SO4,-0.3,0.6,5.0,69.6
+WS2-24,0,0,0,0,0,0,0,0,0,1,0,0,0,flower-like clusters,0,12.8,1.0,K,OH,0.0,0.8,0.25,243.8
+WS2-24,0,0,0,0,0,0,0,0,0,1,0,0,0,flower-like clusters,0,12.8,1.0,K,OH,0.0,0.8,0.5,236
+WS2-24,0,0,0,0,0,0,0,0,0,1,0,0,0,flower-like clusters,0,12.8,1.0,K,OH,0.0,0.8,1.0,228.2
+WS2-24,0,0,0,0,0,0,0,0,0,1,0,0,0,flower-like clusters,0,12.8,1.0,K,OH,0.0,0.8,2.0,220
+WS2-24,0,0,0,0,0,0,0,0,0,1,0,0,0,flower-like clusters,0,12.8,1.0,K,OH,0.0,0.8,5.0,208
+WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,irregular nanoparticles,0,3.63,2.0,K,OH,-0.2,0.4,0.2,264.8
+WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,irregular nanoparticles,0,3.63,2.0,K,OH,-0.2,0.4,0.5,244.9
+WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,irregular nanoparticles,0,3.63,2.0,K,OH,-0.2,0.4,1.0,220.7
+WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,irregular nanoparticles,0,3.63,2.0,K,OH,-0.2,0.4,2.0,205.5
+WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,irregular nanoparticles,0,3.63,2.0,K,OH,-0.2,0.4,4.0,175.4
+WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,irregular nanoparticles,0,3.63,2.0,K,OH,-0.2,0.4,10.0,134.5
+WS2@HCNC,0,0,0,0,0,0,0,0,0,1,1,doped carbon-based,3D porous,irregular nanoparticles,supported,565.21,2.0,K,OH,-0.2,0.4,0.2,1305.5
+WS2@HCNC,0,0,0,0,0,0,0,0,0,1,1,doped carbon-based,3D porous,irregular nanoparticles,supported,565.21,2.0,K,OH,-0.2,0.4,0.5,1230.9
+WS2@HCNC,0,0,0,0,0,0,0,0,0,1,1,doped carbon-based,3D porous,irregular nanoparticles,supported,565.21,2.0,K,OH,-0.2,0.4,1.0,1074.3
+WS2@HCNC,0,0,0,0,0,0,0,0,0,1,1,doped carbon-based,3D porous,irregular nanoparticles,supported,565.21,2.0,K,OH,-0.2,0.4,2.0,794.9
+WS2@HCNC,0,0,0,0,0,0,0,0,0,1,1,doped carbon-based,3D porous,irregular nanoparticles,supported,565.21,2.0,K,OH,-0.2,0.4,4.0,631.4
+WS2@HCNC,0,0,0,0,0,0,0,0,0,1,1,doped carbon-based,3D porous,irregular nanoparticles,supported,565.21,2.0,K,OH,-0.2,0.4,10.0,482.6
+WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,bulk,0,7.2,1.0,Na,OH,0.0,0.8,0.5,62.2
+WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,bulk,0,7.2,1.0,Na,OH,0.0,0.8,1.0,60.2
+WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,bulk,0,7.2,1.0,Na,OH,0.0,0.8,2.0,57
+WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,bulk,0,7.2,1.0,Na,OH,0.0,0.8,5.0,52.6
+WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,bulk,0,7.2,1.0,Na,OH,0.0,0.8,10.0,48.6
+P2-WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,nanosheets,0,13.6,1.0,Na,OH,0.0,0.8,0.5,143.9
+P2-WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,nanosheets,0,13.6,1.0,Na,OH,0.0,0.8,1.0,137.1
+P2-WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,nanosheets,0,13.6,1.0,Na,OH,0.0,0.8,2.0,131
+P2-WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,nanosheets,0,13.6,1.0,Na,OH,0.0,0.8,5.0,124.1
+P2-WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,nanosheets,0,13.6,1.0,Na,OH,0.0,0.8,10.0,117.6
+WS2-ACC,0,0,0,0,0,0,0,0,0,1,1,CNF,1D fibers,flower-like clusters,supported,28.6,1.0,Na,OH,0.0,0.8,0.25,113
+WS2-ACC,0,0,0,0,0,0,0,0,0,1,1,CNF,1D fibers,flower-like clusters,supported,28.6,1.0,Na,OH,0.0,0.8,0.5,103
+WS2-ACC,0,0,0,0,0,0,0,0,0,1,1,CNF,1D fibers,flower-like clusters,supported,28.6,1.0,Na,OH,0.0,0.8,1.0,99
+WS2-ACC,0,0,0,0,0,0,0,0,0,1,1,CNF,1D fibers,flower-like clusters,supported,28.6,1.0,Na,OH,0.0,0.8,2.0,96
+WS2-ACC,0,0,0,0,0,0,0,0,0,1,1,CNF,1D fibers,flower-like clusters,supported,28.6,1.0,Na,OH,0.0,0.8,5.0,91
+Ni-WS2-ACC-2,0,0,0,0,0,1,0,0,0,1,1,CNF,1D fibers,flower-like clusters,supported,42.3,1.0,Na,OH,0.0,0.8,0.25,264
+Ni-WS2-ACC-2,0,0,0,0,0,1,0,0,0,1,1,CNF,1D fibers,flower-like clusters,supported,42.3,1.0,Na,OH,0.0,0.8,0.5,253
+Ni-WS2-ACC-2,0,0,0,0,0,1,0,0,0,1,1,CNF,1D fibers,flower-like clusters,supported,42.3,1.0,Na,OH,0.0,0.8,1.0,246
+Ni-WS2-ACC-2,0,0,0,0,0,1,0,0,0,1,1,CNF,1D fibers,flower-like clusters,supported,42.3,1.0,Na,OH,0.0,0.8,2.0,241
+Ni-WS2-ACC-2,0,0,0,0,0,1,0,0,0,1,1,CNF,1D fibers,flower-like clusters,supported,42.3,1.0,Na,OH,0.0,0.8,5.0,238
+WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,flower-like clusters,0,3.7,1.0,K,OH,0.0,0.5,0.2,368
+WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,flower-like clusters,0,3.7,1.0,K,OH,0.0,0.5,1.0,360
+WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,flower-like clusters,0,3.7,1.0,K,OH,0.0,0.5,3.0,287
+WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,flower-like clusters,0,3.7,1.0,K,OH,0.0,0.5,4.0,238
+WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,flower-like clusters,0,3.7,1.0,K,OH,0.0,0.5,8.0,177
+WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,flower-like clusters,0,3.7,1.0,K,OH,0.0,0.5,10.0,142
+WS2/ACF,0,0,0,0,0,0,0,0,0,1,1,CNF,1D fibers,flower-like clusters,supported,10.8,1.0,K,OH,0.0,0.5,0.2,604
+WS2/ACF,0,0,0,0,0,0,0,0,0,1,1,CNF,1D fibers,flower-like clusters,supported,10.8,1.0,K,OH,0.0,0.5,1.0,600
+WS2/ACF,0,0,0,0,0,0,0,0,0,1,1,CNF,1D fibers,flower-like clusters,supported,10.8,1.0,K,OH,0.0,0.5,2.0,527
+WS2/ACF,0,0,0,0,0,0,0,0,0,1,1,CNF,1D fibers,flower-like clusters,supported,10.8,1.0,K,OH,0.0,0.5,4.0,476
+WS2/ACF,0,0,0,0,0,0,0,0,0,1,1,CNF,1D fibers,flower-like clusters,supported,10.8,1.0,K,OH,0.0,0.5,8.0,391
+WS2/ACF,0,0,0,0,0,0,0,0,0,1,1,CNF,1D fibers,flower-like clusters,supported,10.8,1.0,K,OH,0.0,0.5,10.0,340
+WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,flower-like clusters,0,3.7,1.0,H,SO4,-0.2,0.8,0.2,275
+WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,flower-like clusters,0,3.7,1.0,H,SO4,-0.2,0.8,1.0,239
+WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,flower-like clusters,0,3.7,1.0,H,SO4,-0.2,0.8,3.0,206
+WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,flower-like clusters,0,3.7,1.0,H,SO4,-0.2,0.8,4.0,172
+WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,flower-like clusters,0,3.7,1.0,H,SO4,-0.2,0.8,8.0,139
+WS2,0,0,0,0,0,0,0,0,0,1,0,0,0,flower-like clusters,0,3.7,1.0,H,SO4,-0.2,0.8,10.0,116
+WS2/ACF,0,0,0,0,0,0,0,0,0,1,1,CNF,1D fibers,flower-like clusters,supported,10.8,1.0,H,SO4,-0.2,0.8,0.2,520
+WS2/ACF,0,0,0,0,0,0,0,0,0,1,1,CNF,1D fibers,flower-like clusters,supported,10.8,1.0,H,SO4,-0.2,0.8,1.0,502
+WS2/ACF,0,0,0,0,0,0,0,0,0,1,1,CNF,1D fibers,flower-like clusters,supported,10.8,1.0,H,SO4,-0.2,0.8,2.0,452
+WS2/ACF,0,0,0,0,0,0,0,0,0,1,1,CNF,1D fibers,flower-like clusters,supported,10.8,1.0,H,SO4,-0.2,0.8,4.0,407
+WS2/ACF,0,0,0,0,0,0,0,0,0,1,1,CNF,1D fibers,flower-like clusters,supported,10.8,1.0,H,SO4,-0.2,0.8,8.0,358
+WS2/ACF,0,0,0,0,0,0,0,0,0,1,1,CNF,1D fibers,flower-like clusters,supported,10.8,1.0,H,SO4,-0.2,0.8,10.0,315
