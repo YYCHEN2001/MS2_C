@@ -1,11 +1,11 @@
 ## CM_type
-| CM_type            |   count |
-|:-------------------|--------:|
-| 0                  |     395 |
-| doped carbon-based |     206 |
-| G-based            |     122 |
-| CNF                |      43 |
-| CNT                |      28 |
+| CM_type              |   count |
+|:---------------------|--------:|
+| 0                    |     395 |
+| derived carbon-based |     206 |
+| G-based              |     122 |
+| CNF                  |      43 |
+| CNT                  |      28 |
 
 ## CM_morph
 | CM_morph   |   count |
