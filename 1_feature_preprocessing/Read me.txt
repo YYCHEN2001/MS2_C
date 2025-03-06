@@ -1,0 +1,50 @@
+# Manual One-Hot coding
+# Convert Ti, V, Mn, Fe, Co, Ni, Zr, Mo, Sn, W, CP columns to Boolean values
+
+# CM_type column
+    # 0. NoCP
+    # means pure MS2
+    # 1. CNF
+    # includes CNF and CC.
+    # 2. CNT
+    # includes CNT and MWCNT.
+    # 3. G-based
+    # includes Graphene, GO and RGO.
+    # 4. derived carbon-based
+    # such carbon is obtained by carbonization of organic precursors.
+
+# CM_morph column
+    # 0. NoCP
+    # means pure MS2
+    # 1. 0D
+    # includes 0D QDs.
+    # 2. 1D fibers.
+    # includes 1D fibers.
+    # 3. 1D tubes
+    # includes 1D tubes.
+    # 4. 2D
+    # includes 2D nanosheets (few layers, thick < 10 nm).
+    # 5. 3D porous
+    # includes 3D porous and 3D networks.
+    # 6. 3D special
+    # includes nanoparticles, nanospheres, rods, tubes and flower-like.
+
+# MS2_morph column
+    # 0. bulk
+    # no regular shape.
+    # 1. nanosheets
+    # flake，not few-layer sheet.
+    # 2. flower-like clusters
+    # aggregated from few-layer nanosheets.
+    # 3. irregular nanoparticles
+    # particles less than 1 μm in size, but the size and dispersion degree are not uniform.
+    # 4. nanoparticles
+    # includes nanoparticles, octahedron, cubes, rods and spheres. 
+    # the size and dispersion are uniform.
+    # 5. hollow morph
+    # includes hollow spheres, hollow rods, hollow cubes, hollow nanoparticles,
+    # double shell spheres, yolk-shell spheres and core-shell nanoparticles. 
+
+# Because the classification feature will be One-Hot encoded later, 
+# need to replace the 0 in the classification feature with the 'NoCP' placeholder
+# CM_type, CM_morph, CP_morph columns replace all '0' with 'NoCP'
