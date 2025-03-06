@@ -1,5 +1,5 @@
 # Manual One-Hot coding
-# Convert Ti, V, Mn, Fe, Co, Ni, Zr, Mo, Sn, W, CP columns to Boolean values
+# Convert Ti, V, Fe, Co, Ni, Zr, Mo, Sn, W, CP columns to Boolean values
 
 # CM_type column
     # 0. NoCP
