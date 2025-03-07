@@ -9,10 +9,10 @@ def calculate_metrics(y_true, y_pred):
     """
     Calculate and return actual vs pred fig for data_dopants metrics.
     """
-    r2 = r2_score(y_true, y_pred)
-    mae = mean_absolute_error(y_true, y_pred)
-    mape = mean_absolute_percentage_error(y_true, y_pred)*100
-    rmse = root_mean_squared_error(y_true, y_pred)
+    r2 = round(r2_score(y_true, y_pred), 3)
+    mae = round(mean_absolute_error(y_true, y_pred), 2)
+    mape = round(mean_absolute_percentage_error(y_true, y_pred) * 100, 2)
+    rmse = round(root_mean_squared_error(y_true, y_pred), 2)
     return r2, mae, mape, rmse
 
 
@@ -20,8 +20,14 @@ def metrics_to_dataframe(y_train, y_train_pred, y_test, y_test_pred, model_name)
     R2_train, MAE_train, MAPE_train, RMSE_train = calculate_metrics(y_train, y_train_pred)
     R2_test, MAE_test, MAPE_test, RMSE_test = calculate_metrics(y_test, y_test_pred)
     metrics = {'model': model_name,
-                   'R2_train': R2_train, 'MAE_train': MAE_train, 'MAPE_train': MAPE_train, 'RMSE_train': RMSE_train,
-                   'R2_test': R2_test, 'MAE_test': MAE_test, 'MAPE_test': MAPE_test, 'RMSE_test': RMSE_test}
+               'R2_train': R2_train, 
+               'MAE_train': MAE_train, 
+               'MAPE_train': MAPE_train, 
+               'RMSE_train': RMSE_train,
+               'R2_test': R2_test, 
+               'MAE_test': MAE_test, 
+               'MAPE_test': MAPE_test, 
+               'RMSE_test': RMSE_test}
     model_name_df = pd.DataFrame([metrics])
     return model_name_df
 
@@ -47,7 +53,7 @@ def plot_actual_vs_predicted(y_train, y_pred_train, y_test, y_pred_test, figtitl
     y_pred_test = y_pred_test.ravel()
     y_combined = np.concatenate([y_train, y_pred_train, y_test, y_pred_test])
     min_val, max_val = np.min(y_combined), np.max(y_combined)
-    padding = (max_val - min_val) * 0.05
+    padding = (max_val - min_val) * 0.01
     padded_min, padded_max = min_val - padding, max_val + padding
 
     # 绘制y=x的虚线，线宽为3
@@ -71,8 +77,8 @@ def plot_actual_vs_predicted(y_train, y_pred_train, y_test, y_pred_test, figtitl
 
     # 检查并统一X轴和Y轴的刻度
     # 可以通过设置两个轴的相同刻度，或者根据数据自动选择刻度
-    x_ticks = np.arange(0, max(y_combined) + 1, 800)  # 可以根据数据范围调整
-    y_ticks = np.arange(0, max(y_combined) + 1, 800)  # 使得X和Y轴的刻度间隔相同
+    x_ticks = np.arange(0, max(y_combined) + 1, 500)  # 可以根据数据范围调整
+    y_ticks = np.arange(0, max(y_combined) + 1, 500)  # 使得X和Y轴的刻度间隔相同
 
     plt.xticks(x_ticks)
     plt.yticks(y_ticks)

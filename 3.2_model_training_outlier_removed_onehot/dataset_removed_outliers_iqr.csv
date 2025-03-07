@@ -1,7 +1,4 @@
 Ti,V,Fe,Co,Ni,Zr,Mo,Sn,W,CM_type,CM_morph,MS2_morph,CP_morph,SSA,C,Cation,Anion,P_low,P_high,CD,Cs
-True,False,False,False,False,False,False,False,False,G-based,2D,irregular nanoparticles,supported,289.4,6.0,K,OH,-0.5,0.5,1.0,97.0
-True,False,False,False,False,False,False,False,False,G-based,2D,irregular nanoparticles,supported,301.8,6.0,K,OH,-0.5,0.5,1.0,102.0
-True,False,False,False,False,False,False,False,False,G-based,2D,irregular nanoparticles,supported,319.2,6.0,K,OH,-0.5,0.5,1.0,113.0
 False,True,False,False,False,False,False,False,False,NoCP,NoCP,nanosheets,NoCP,5.5,6.0,K,OH,0.0,0.5,1.0,152.0
 False,True,False,False,False,False,False,False,False,NoCP,NoCP,nanosheets,NoCP,5.5,6.0,K,OH,0.0,0.5,2.0,145.0
 False,True,False,False,False,False,False,False,False,NoCP,NoCP,nanosheets,NoCP,5.5,6.0,K,OH,0.0,0.5,5.0,136.0
@@ -189,8 +186,6 @@ False,False,False,True,True,False,False,False,False,NoCP,NoCP,nanoparticles,NoCP
 False,False,False,True,True,False,False,False,False,NoCP,NoCP,nanoparticles,NoCP,78.4,3.0,K,OH,0.0,0.45,5.0,1571.0
 False,False,False,True,True,False,False,False,False,NoCP,NoCP,nanoparticles,NoCP,78.4,3.0,K,OH,0.0,0.45,10.0,1446.0
 False,False,False,True,True,False,False,False,False,NoCP,NoCP,nanoparticles,NoCP,78.4,3.0,K,OH,0.0,0.45,20.0,1330.0
-False,False,False,True,False,False,False,False,False,NoCP,NoCP,hollow morph,NoCP,326.2,6.0,K,OH,0.0,0.36,0.5,703.0
-False,False,False,True,False,False,False,False,False,NoCP,NoCP,hollow morph,NoCP,326.2,6.0,K,OH,0.0,0.36,10.0,510.0
 False,False,False,False,False,False,True,False,False,NoCP,NoCP,flower-like clusters,NoCP,58.2,2.0,K,OH,0.0,0.5,1.0,117.0
 False,False,False,False,False,False,True,False,False,NoCP,NoCP,flower-like clusters,NoCP,58.2,2.0,K,OH,0.0,0.5,2.0,102.0
 False,False,False,False,False,False,True,False,False,NoCP,NoCP,flower-like clusters,NoCP,58.2,2.0,K,OH,0.0,0.5,5.0,72.0
@@ -203,11 +198,13 @@ False,False,False,True,False,False,False,False,False,NoCP,NoCP,irregular nanopar
 False,False,False,True,False,False,False,False,False,NoCP,NoCP,irregular nanoparticles,NoCP,51.2,2.0,K,OH,0.0,0.5,2.0,437.0
 False,False,False,True,False,False,False,False,False,NoCP,NoCP,irregular nanoparticles,NoCP,51.2,2.0,K,OH,0.0,0.5,5.0,367.0
 False,False,False,True,False,False,False,False,False,NoCP,NoCP,irregular nanoparticles,NoCP,51.2,2.0,K,OH,0.0,0.5,10.0,297.0
-False,False,False,True,False,False,False,False,False,derived carbon-based,3D porous,irregular nanoparticles,interconnection,253.8,6.0,K,OH,0.0,0.5,1.0,654.0
-False,False,False,True,False,False,False,False,False,derived carbon-based,3D porous,irregular nanoparticles,interconnection,253.8,6.0,K,OH,0.0,0.5,2.0,616.0
-False,False,False,True,False,False,False,False,False,derived carbon-based,3D porous,irregular nanoparticles,interconnection,253.8,6.0,K,OH,0.0,0.5,5.0,571.0
-False,False,False,True,False,False,False,False,False,derived carbon-based,3D porous,irregular nanoparticles,interconnection,253.8,6.0,K,OH,0.0,0.5,7.0,560.0
-False,False,False,True,False,False,False,False,False,derived carbon-based,3D porous,irregular nanoparticles,interconnection,253.8,6.0,K,OH,0.0,0.5,10.0,544.0
+False,False,False,False,True,False,False,False,False,derived carbon-based,3D porous,nanoparticles,supported,60.3,6.0,K,OH,0.0,0.45,1.0,574.0
+False,False,False,False,True,False,False,False,False,derived carbon-based,3D porous,nanoparticles,supported,60.3,6.0,K,OH,0.0,0.45,2.0,444.0
+False,False,False,False,True,False,False,False,False,derived carbon-based,3D porous,nanoparticles,supported,60.3,6.0,K,OH,0.0,0.45,3.0,358.0
+False,False,False,False,True,False,False,False,False,derived carbon-based,3D porous,nanoparticles,supported,60.3,6.0,K,OH,0.0,0.45,5.0,278.0
+False,False,False,False,True,False,False,False,False,derived carbon-based,3D porous,nanoparticles,supported,60.3,6.0,K,OH,0.0,0.45,10.0,188.0
+False,False,False,False,True,False,False,False,False,derived carbon-based,3D porous,nanoparticles,supported,60.3,6.0,K,OH,0.0,0.45,15.0,156.0
+False,False,False,False,True,False,False,False,False,derived carbon-based,3D porous,nanoparticles,supported,60.3,6.0,K,OH,0.0,0.45,20.0,133.0
 False,False,False,True,False,False,False,False,False,CNT,3D porous,nanosheets,supported,15.7,2.0,K,OH,0.0,0.5,2.0,535.0
 False,False,False,True,False,False,False,False,False,CNT,3D porous,nanosheets,supported,15.7,2.0,K,OH,0.0,0.5,3.0,496.0
 False,False,False,True,False,False,False,False,False,CNT,3D porous,nanosheets,supported,15.7,2.0,K,OH,0.0,0.5,5.0,462.0
@@ -232,9 +229,15 @@ False,False,False,True,False,False,False,False,False,derived carbon-based,3D spe
 False,False,False,True,False,False,False,False,False,derived carbon-based,3D special,nanoparticles,supported,98.1,2.0,K,OH,0.0,0.45,4.0,1088.0
 False,False,False,True,False,False,False,False,False,derived carbon-based,3D special,nanoparticles,supported,98.1,2.0,K,OH,0.0,0.45,8.0,957.0
 False,False,False,True,False,False,False,False,False,derived carbon-based,3D special,nanoparticles,supported,98.1,2.0,K,OH,0.0,0.45,16.0,787.0
-False,False,False,True,True,False,False,False,False,G-based,3D porous,irregular nanoparticles,supported,200.5,3.0,K,OH,0.0,0.43,1.0,2451.0
-False,False,False,True,True,False,False,False,False,G-based,3D porous,irregular nanoparticles,supported,200.5,3.0,K,OH,0.0,0.43,2.0,2302.0
-False,False,False,True,True,False,False,False,False,G-based,3D porous,irregular nanoparticles,supported,200.5,3.0,K,OH,0.0,0.43,5.0,2024.0
+False,False,True,False,False,False,False,False,False,derived carbon-based,3D porous,nanoparticles,supported,196.8,6.0,K,OH,0.0,0.5,1.0,1493.0
+False,False,True,False,False,False,False,False,False,derived carbon-based,3D porous,nanoparticles,supported,196.8,6.0,K,OH,0.0,0.5,2.0,1339.0
+False,False,True,False,False,False,False,False,False,derived carbon-based,3D porous,nanoparticles,supported,196.8,6.0,K,OH,0.0,0.5,5.0,1163.0
+False,False,True,False,False,False,False,False,False,derived carbon-based,3D porous,nanoparticles,supported,196.8,6.0,K,OH,0.0,0.5,10.0,980.0
+False,False,True,False,False,False,False,False,False,derived carbon-based,3D porous,nanoparticles,supported,196.8,6.0,K,OH,0.0,0.5,15.0,875.0
+False,False,True,True,False,False,False,False,False,derived carbon-based,3D porous,nanoparticles,supported,199.9,6.0,K,OH,0.0,0.5,2.0,1820.0
+False,False,True,True,False,False,False,False,False,derived carbon-based,3D porous,nanoparticles,supported,199.9,6.0,K,OH,0.0,0.5,5.0,1546.0
+False,False,True,True,False,False,False,False,False,derived carbon-based,3D porous,nanoparticles,supported,199.9,6.0,K,OH,0.0,0.5,10.0,1304.0
+False,False,True,True,False,False,False,False,False,derived carbon-based,3D porous,nanoparticles,supported,199.9,6.0,K,OH,0.0,0.5,15.0,1111.0
 False,False,False,True,True,False,False,False,False,G-based,3D porous,irregular nanoparticles,supported,200.5,3.0,K,OH,0.0,0.43,10.0,1768.0
 False,False,False,True,True,False,False,False,False,G-based,3D porous,irregular nanoparticles,supported,200.5,3.0,K,OH,0.0,0.43,20.0,1457.0
 False,False,False,True,False,False,False,False,False,derived carbon-based,3D porous,nanoparticles,coated,111.3,2.0,K,OH,0.0,0.5,1.0,1008.0
@@ -242,12 +245,6 @@ False,False,False,True,False,False,False,False,False,derived carbon-based,3D por
 False,False,False,True,False,False,False,False,False,derived carbon-based,3D porous,nanoparticles,coated,111.3,2.0,K,OH,0.0,0.5,5.0,873.0
 False,False,False,True,False,False,False,False,False,derived carbon-based,3D porous,nanoparticles,coated,111.3,2.0,K,OH,0.0,0.5,8.0,788.0
 False,False,False,True,False,False,False,False,False,derived carbon-based,3D porous,nanoparticles,coated,111.3,2.0,K,OH,0.0,0.5,10.0,740.0
-False,False,False,True,False,False,False,False,False,derived carbon-based,0D QDs,irregular nanoparticles,supported,427.2,2.0,K,OH,-0.4,0.5,1.0,808.0
-False,False,False,True,False,False,False,False,False,derived carbon-based,0D QDs,irregular nanoparticles,supported,427.2,2.0,K,OH,-0.4,0.5,3.0,750.0
-False,False,False,True,False,False,False,False,False,derived carbon-based,0D QDs,irregular nanoparticles,supported,427.2,2.0,K,OH,-0.4,0.5,7.0,710.0
-False,False,False,True,False,False,False,False,False,derived carbon-based,0D QDs,irregular nanoparticles,supported,427.2,2.0,K,OH,-0.4,0.5,13.0,690.0
-False,False,False,True,False,False,False,False,False,derived carbon-based,0D QDs,irregular nanoparticles,supported,427.2,2.0,K,OH,-0.4,0.5,25.0,650.0
-False,False,False,True,False,False,False,False,False,derived carbon-based,0D QDs,irregular nanoparticles,supported,427.2,2.0,K,OH,-0.4,0.5,50.0,560.0
 False,False,False,True,False,False,False,False,False,CNF,1D fibers,nanoparticles,supported,16.3,3.0,K,OH,0.0,0.45,1.0,518.0
 False,False,False,True,False,False,False,False,False,CNF,1D fibers,nanoparticles,supported,16.3,3.0,K,OH,0.0,0.45,2.0,397.0
 False,False,False,True,False,False,False,False,False,CNF,1D fibers,nanoparticles,supported,16.3,3.0,K,OH,0.0,0.45,3.0,331.0
@@ -338,9 +335,6 @@ False,False,False,True,True,False,False,False,False,NoCP,NoCP,irregular nanopart
 False,False,False,True,True,False,False,False,False,NoCP,NoCP,irregular nanoparticles,NoCP,6.4,2.0,K,OH,0.0,0.4,8.0,1326.0
 False,False,False,True,True,False,False,False,False,NoCP,NoCP,irregular nanoparticles,NoCP,6.4,2.0,K,OH,0.0,0.4,10.0,1263.0
 False,False,False,True,True,False,False,False,False,NoCP,NoCP,irregular nanoparticles,NoCP,6.4,2.0,K,OH,0.0,0.4,20.0,942.0
-False,False,False,True,True,False,False,False,False,NoCP,NoCP,irregular nanoparticles,NoCP,29.9,2.0,K,OH,0.0,0.4,2.0,2141.0
-False,False,False,True,True,False,False,False,False,NoCP,NoCP,irregular nanoparticles,NoCP,29.9,2.0,K,OH,0.0,0.4,3.0,2102.0
-False,False,False,True,True,False,False,False,False,NoCP,NoCP,irregular nanoparticles,NoCP,29.9,2.0,K,OH,0.0,0.4,4.0,2030.0
 False,False,False,True,True,False,False,False,False,NoCP,NoCP,irregular nanoparticles,NoCP,29.9,2.0,K,OH,0.0,0.4,8.0,1857.0
 False,False,False,True,True,False,False,False,False,NoCP,NoCP,irregular nanoparticles,NoCP,29.9,2.0,K,OH,0.0,0.4,10.0,1797.0
 False,False,False,True,True,False,False,False,False,NoCP,NoCP,irregular nanoparticles,NoCP,29.9,2.0,K,OH,0.0,0.4,20.0,1560.0
@@ -394,12 +388,32 @@ False,False,False,False,True,False,False,False,False,derived carbon-based,1D fib
 False,False,False,False,True,False,False,False,False,derived carbon-based,1D fibers,irregular nanoparticles,interconnection,62.6,6.0,K,OH,0.0,0.5,3.0,376.0
 False,False,False,False,True,False,False,False,False,derived carbon-based,1D fibers,irregular nanoparticles,interconnection,62.6,6.0,K,OH,0.0,0.5,5.0,330.0
 False,False,False,False,True,False,False,False,False,NoCP,NoCP,bulk,NoCP,18.5,6.0,K,OH,0.0,0.4,3.0,834.0
-False,False,False,False,True,False,False,False,False,derived carbon-based,3D porous,nanoparticles,coated,24.6,6.0,K,OH,0.0,0.4,2.0,2212.0
 False,False,False,False,True,False,False,False,False,derived carbon-based,3D porous,nanoparticles,coated,24.6,6.0,K,OH,0.0,0.4,3.0,1634.0
 False,False,False,False,True,False,False,False,False,derived carbon-based,3D porous,nanoparticles,coated,24.6,6.0,K,OH,0.0,0.4,4.0,1488.0
 False,False,False,False,True,False,False,False,False,derived carbon-based,3D porous,nanoparticles,coated,24.6,6.0,K,OH,0.0,0.4,5.0,1412.0
 False,False,False,False,True,False,False,False,False,derived carbon-based,3D porous,nanoparticles,coated,24.6,6.0,K,OH,0.0,0.4,7.0,1136.0
 False,False,False,False,True,False,False,False,False,derived carbon-based,3D porous,nanoparticles,coated,24.6,6.0,K,OH,0.0,0.4,10.0,978.0
+False,False,False,False,True,False,False,False,False,derived carbon-based,3D porous,irregular nanoparticles,supported,64.3,6.0,K,OH,0.0,0.5,1.0,1835.0
+False,False,False,False,True,False,False,False,False,derived carbon-based,3D porous,irregular nanoparticles,supported,64.3,6.0,K,OH,0.0,0.5,2.0,1670.0
+False,False,False,False,True,False,False,False,False,derived carbon-based,3D porous,irregular nanoparticles,supported,64.3,6.0,K,OH,0.0,0.5,5.0,1400.0
+False,False,False,False,True,False,False,False,False,derived carbon-based,3D porous,irregular nanoparticles,supported,64.3,6.0,K,OH,0.0,0.5,10.0,1011.0
+False,False,False,False,True,False,False,False,False,derived carbon-based,3D porous,irregular nanoparticles,supported,64.3,6.0,K,OH,0.0,0.5,20.0,826.0
+False,False,False,False,True,False,False,False,False,derived carbon-based,3D porous,irregular nanoparticles,supported,121.6,6.0,K,OH,0.0,0.5,1.0,1773.0
+False,False,False,False,True,False,False,False,False,derived carbon-based,3D porous,irregular nanoparticles,supported,121.6,6.0,K,OH,0.0,0.5,2.0,1557.0
+False,False,False,False,True,False,False,False,False,derived carbon-based,3D porous,irregular nanoparticles,supported,121.6,6.0,K,OH,0.0,0.5,5.0,1322.0
+False,False,False,False,True,False,False,False,False,derived carbon-based,3D porous,irregular nanoparticles,supported,121.6,6.0,K,OH,0.0,0.5,10.0,1089.0
+False,False,False,False,True,False,False,False,False,derived carbon-based,3D porous,irregular nanoparticles,supported,121.6,6.0,K,OH,0.0,0.5,20.0,794.0
+False,False,False,False,True,False,False,False,False,derived carbon-based,3D porous,irregular nanoparticles,supported,141.5,6.0,K,OH,0.0,0.5,10.0,1711.0
+False,False,False,False,True,False,False,False,False,derived carbon-based,3D porous,irregular nanoparticles,supported,141.5,6.0,K,OH,0.0,0.5,20.0,1254.0
+False,False,False,False,True,False,False,False,False,derived carbon-based,3D porous,irregular nanoparticles,supported,160.1,6.0,K,OH,0.0,0.5,5.0,2014.0
+False,False,False,False,True,False,False,False,False,derived carbon-based,3D porous,irregular nanoparticles,supported,160.1,6.0,K,OH,0.0,0.5,10.0,1555.0
+False,False,False,False,True,False,False,False,False,derived carbon-based,3D porous,irregular nanoparticles,supported,160.1,6.0,K,OH,0.0,0.5,20.0,902.0
+False,False,False,False,True,False,False,False,False,derived carbon-based,3D porous,irregular nanoparticles,supported,107.8,6.0,K,OH,0.0,0.5,0.5,1536.0
+False,False,False,False,True,False,False,False,False,derived carbon-based,3D porous,irregular nanoparticles,supported,107.8,6.0,K,OH,0.0,0.5,1.0,1431.0
+False,False,False,False,True,False,False,False,False,derived carbon-based,3D porous,irregular nanoparticles,supported,107.8,6.0,K,OH,0.0,0.5,2.0,1215.0
+False,False,False,False,True,False,False,False,False,derived carbon-based,3D porous,irregular nanoparticles,supported,107.8,6.0,K,OH,0.0,0.5,5.0,1081.0
+False,False,False,False,True,False,False,False,False,derived carbon-based,3D porous,irregular nanoparticles,supported,107.8,6.0,K,OH,0.0,0.5,10.0,933.0
+False,False,False,False,True,False,False,False,False,derived carbon-based,3D porous,irregular nanoparticles,supported,107.8,6.0,K,OH,0.0,0.5,20.0,622.0
 False,False,False,False,True,False,False,False,False,CNF,1D fibers,flower-like clusters,supported,72.6,3.0,K,OH,0.0,0.4,0.4,1168.0
 False,False,False,False,True,False,False,False,False,CNF,1D fibers,flower-like clusters,supported,72.6,3.0,K,OH,0.0,0.4,0.8,1074.0
 False,False,False,False,True,False,False,False,False,CNF,1D fibers,flower-like clusters,supported,72.6,3.0,K,OH,0.0,0.4,1.0,868.0
@@ -483,13 +497,6 @@ False,False,False,False,False,False,True,False,False,NoCP,NoCP,nanosheets,NoCP,6
 False,False,False,False,False,False,True,False,False,NoCP,NoCP,nanosheets,NoCP,6.6,1.0,Na,SO4,-0.8,0.2,0.6,85.0
 False,False,False,False,False,False,True,False,False,NoCP,NoCP,nanosheets,NoCP,6.6,1.0,Na,SO4,-0.8,0.2,0.7,75.0
 False,False,False,False,False,False,True,False,False,NoCP,NoCP,nanosheets,NoCP,6.6,1.0,Na,SO4,-0.8,0.2,1.0,35.0
-False,False,False,False,False,False,True,False,False,G-based,2D,nanosheets,supported,365.8,1.0,Na,SO4,-0.8,0.2,0.1,270.0
-False,False,False,False,False,False,True,False,False,G-based,2D,nanosheets,supported,365.8,1.0,Na,SO4,-0.8,0.2,0.2,240.0
-False,False,False,False,False,False,True,False,False,G-based,2D,nanosheets,supported,365.8,1.0,Na,SO4,-0.8,0.2,0.3,180.0
-False,False,False,False,False,False,True,False,False,G-based,2D,nanosheets,supported,365.8,1.0,Na,SO4,-0.8,0.2,0.5,155.0
-False,False,False,False,False,False,True,False,False,G-based,2D,nanosheets,supported,365.8,1.0,Na,SO4,-0.8,0.2,0.6,136.0
-False,False,False,False,False,False,True,False,False,G-based,2D,nanosheets,supported,365.8,1.0,Na,SO4,-0.8,0.2,0.7,126.0
-False,False,False,False,False,False,True,False,False,G-based,2D,nanosheets,supported,365.8,1.0,Na,SO4,-0.8,0.2,1.0,90.0
 False,False,False,False,False,False,True,False,False,CNF,1D fibers,flower-like clusters,supported,115.0,1.0,Na,SO4,-0.7,0.0,0.5,225.0
 False,False,False,False,False,False,True,False,False,CNF,1D fibers,flower-like clusters,supported,115.0,1.0,Na,SO4,-0.7,0.0,1.0,215.0
 False,False,False,False,False,False,True,False,False,CNF,1D fibers,flower-like clusters,supported,115.0,1.0,Na,SO4,-0.7,0.0,2.0,131.0
@@ -533,11 +540,6 @@ False,False,False,False,False,False,True,False,False,NoCP,NoCP,nanosheets,NoCP,2
 False,False,False,False,False,False,True,False,False,NoCP,NoCP,nanosheets,NoCP,21.1,1.0,Na,SO4,-0.8,0.2,3.0,94.0
 False,False,False,False,False,False,True,False,False,NoCP,NoCP,nanosheets,NoCP,21.1,1.0,Na,SO4,-0.8,0.2,5.0,85.0
 False,False,False,False,False,False,True,False,False,NoCP,NoCP,nanosheets,NoCP,21.1,1.0,Na,SO4,-0.8,0.2,10.0,71.0
-False,False,False,False,False,False,True,False,False,derived carbon-based,3D porous,nanosheets,supported,918.0,1.0,Na,SO4,-0.8,0.2,1.0,251.0
-False,False,False,False,False,False,True,False,False,derived carbon-based,3D porous,nanosheets,supported,918.0,1.0,Na,SO4,-0.8,0.2,1.5,233.0
-False,False,False,False,False,False,True,False,False,derived carbon-based,3D porous,nanosheets,supported,918.0,1.0,Na,SO4,-0.8,0.2,3.0,215.0
-False,False,False,False,False,False,True,False,False,derived carbon-based,3D porous,nanosheets,supported,918.0,1.0,Na,SO4,-0.8,0.2,5.0,196.0
-False,False,False,False,False,False,True,False,False,derived carbon-based,3D porous,nanosheets,supported,918.0,1.0,Na,SO4,-0.8,0.2,10.0,181.0
 False,False,False,False,False,False,True,False,False,G-based,2D,nanosheets,supported,70.1,1.0,H,SO4,-0.6,0.2,0.75,331.0
 False,False,False,False,False,False,True,False,False,G-based,2D,nanosheets,supported,70.1,1.0,H,SO4,-0.6,0.2,1.0,310.0
 False,False,False,False,False,False,True,False,False,G-based,2D,nanosheets,supported,70.1,1.0,H,SO4,-0.6,0.2,2.0,247.0
@@ -664,12 +666,6 @@ False,False,False,False,False,False,False,False,True,NoCP,NoCP,irregular nanopar
 False,False,False,False,False,False,False,False,True,NoCP,NoCP,irregular nanoparticles,NoCP,3.6,2.0,K,OH,-0.2,0.4,2.0,206.0
 False,False,False,False,False,False,False,False,True,NoCP,NoCP,irregular nanoparticles,NoCP,3.6,2.0,K,OH,-0.2,0.4,4.0,175.0
 False,False,False,False,False,False,False,False,True,NoCP,NoCP,irregular nanoparticles,NoCP,3.6,2.0,K,OH,-0.2,0.4,10.0,134.0
-False,False,False,False,False,False,False,False,True,derived carbon-based,3D porous,irregular nanoparticles,supported,565.2,2.0,K,OH,-0.2,0.4,0.2,1306.0
-False,False,False,False,False,False,False,False,True,derived carbon-based,3D porous,irregular nanoparticles,supported,565.2,2.0,K,OH,-0.2,0.4,0.5,1231.0
-False,False,False,False,False,False,False,False,True,derived carbon-based,3D porous,irregular nanoparticles,supported,565.2,2.0,K,OH,-0.2,0.4,1.0,1074.0
-False,False,False,False,False,False,False,False,True,derived carbon-based,3D porous,irregular nanoparticles,supported,565.2,2.0,K,OH,-0.2,0.4,2.0,795.0
-False,False,False,False,False,False,False,False,True,derived carbon-based,3D porous,irregular nanoparticles,supported,565.2,2.0,K,OH,-0.2,0.4,4.0,631.0
-False,False,False,False,False,False,False,False,True,derived carbon-based,3D porous,irregular nanoparticles,supported,565.2,2.0,K,OH,-0.2,0.4,10.0,483.0
 False,False,False,False,False,False,False,False,True,NoCP,NoCP,bulk,NoCP,7.2,1.0,Na,OH,0.0,0.8,0.5,62.0
 False,False,False,False,False,False,False,False,True,NoCP,NoCP,bulk,NoCP,7.2,1.0,Na,OH,0.0,0.8,1.0,60.0
 False,False,False,False,False,False,False,False,True,NoCP,NoCP,bulk,NoCP,7.2,1.0,Na,OH,0.0,0.8,2.0,57.0
